@@ -7,8 +7,20 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
   app.useGlobalInterceptors(new ClassSerializerInterceptor(app.get(Reflector)));
-  app.enableCors();
-  // 🔹 Swagger config
+
+  // ✅ CORS TO‘G‘RI SOZLAMASI
+  app.enableCors({
+    origin: [
+      'http://localhost:3000',
+      'http://localhost:5173',
+      'https://terdu-qustions-frontend.vercel.app',
+    ],
+    methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization', 'Accept'],
+    credentials: true,
+  });
+
+  // 🔹 Swagger
   const config = new DocumentBuilder()
     .setTitle('Auth API')
     .setDescription('Authentication & Authorization')
@@ -20,7 +32,7 @@ async function bootstrap() {
         bearerFormat: 'JWT',
         in: 'header',
       },
-      'access-token', // 🔴 MUHIM NAME
+      'access-token',
     )
     .build();
 
