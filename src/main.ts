@@ -8,7 +8,6 @@ async function bootstrap() {
 
   app.useGlobalInterceptors(new ClassSerializerInterceptor(app.get(Reflector)));
 
-  // ✅ CORS TO‘G‘RI SOZLAMASI
   app.enableCors({
     origin: [
       'http://localhost:3000',
