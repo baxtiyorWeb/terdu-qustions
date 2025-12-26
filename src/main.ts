@@ -7,11 +7,11 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
   app.useGlobalInterceptors(new ClassSerializerInterceptor(app.get(Reflector)));
-
   app.enableCors({
+    // 'origin: true' NestJS ga kelgan so'rovning Origin sarlavhasini qayta aks ettirishni buyuradi.
     origin: true,
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
-    allowedHeaders: ['Content-Type', 'Authorization'],
+    allowedHeaders: ['Content-Type', 'Authorization', 'Accept'],
     credentials: true,
   });
 
