@@ -2,17 +2,42 @@ import { NestFactory, Reflector } from '@nestjs/core';
 import { AppModule } from './app.module';
 import { SwaggerModule, DocumentBuilder } from '@nestjs/swagger';
 import { ClassSerializerInterceptor } from '@nestjs/common';
+import { Request, Response, NextFunction } from 'express';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
+  // 🔹 Serializer
   app.useGlobalInterceptors(new ClassSerializerInterceptor(app.get(Reflector)));
+
+  // 🔹 CORS (HTML + fetch + Vercel uchun mos)
   app.enableCors({
-    // 'origin: true' NestJS ga kelgan so'rovning Origin sarlavhasini qayta aks ettirishni buyuradi.
-    origin: true,
+    origin: 'https://terdu-qustions-frontend.vercel.app',
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization', 'Accept'],
-    credentials: true,
+    credentials: false, // ❗ fetch + localStorage uchun false
+  });
+
+  // 🔹 OPTIONS preflight (Vercel uchun SHART)
+  app.use((req: Request, res: Response, next: NextFunction) => {
+    res.header(
+      'Access-Control-Allow-Origin',
+      'https://terdu-qustions-frontend.vercel.app',
+    );
+    res.header(
+      'Access-Control-Allow-Methods',
+      'GET,POST,PUT,PATCH,DELETE,OPTIONS',
+    );
+    res.header(
+      'Access-Control-Allow-Headers',
+      'Content-Type, Authorization, Accept',
+    );
+
+    if (req.method === 'OPTIONS') {
+      return res.sendStatus(200);
+    }
+
+    next();
   });
 
   // 🔹 Swagger
