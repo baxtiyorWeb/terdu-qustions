@@ -1,4 +1,3 @@
-import { Exclude } from 'class-transformer';
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 
 export enum UserRole {

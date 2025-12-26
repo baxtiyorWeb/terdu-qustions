@@ -12,11 +12,11 @@ import {
 } from '@nestjs/common';
 import { CategoryService } from './category.service';
 import { CreateCategoryDto, UpdateCategoryDto } from './dto/category.dto';
-import { Roles } from 'src/common/decorators/roles.decorator';
-import { RolesGuard } from 'src/common/guards/roles.guard';
+import { Roles } from './../common/decorators/roles.decorator';
+import { RolesGuard } from './../common/guards/roles.guard';
 import { Category } from './entities/category.entity';
-import { JwtAuthGuard } from 'src/common/guards/jwt-auth.guard';
-import { UserRole } from 'src/user/entities/user.entity';
+import { JwtAuthGuard } from './../common/guards/jwt-auth.guard';
+import { UserRole } from './../user/entities/user.entity';
 
 @Controller('categories') // Asosiy endpoint
 export class CategoryController {

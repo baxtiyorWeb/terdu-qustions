@@ -1,10 +1,10 @@
 import { Controller, Post, Body, Get, Param, UseGuards } from '@nestjs/common';
 import { ResultService } from './result.service';
-import { RolesGuard } from 'src/common/guards/roles.guard';
-import { UserRole } from 'src/user/entities/user.entity';
-import { Roles } from 'src/common/decorators/roles.decorator';
+import { RolesGuard } from './../common/guards/roles.guard';
+import { UserRole } from './../user/entities/user.entity';
+import { Roles } from './../common/decorators/roles.decorator';
 import { CreateResultDto } from './dto/create-result.dto';
-import { JwtAuthGuard } from 'src/common/guards/jwt-auth.guard';
+import { JwtAuthGuard } from './../common/guards/jwt-auth.guard';
 import { Result } from './entities/result.entity';
 
 @Controller('results')

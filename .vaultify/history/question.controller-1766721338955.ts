@@ -10,10 +10,10 @@ import {
 } from '@nestjs/common';
 import { QuestionService } from './question.service';
 import { CreateQuestionDto, UpdateQuestionDto } from './dto/question.dto';
-import { Roles } from 'src/common/decorators/roles.decorator';
-import { UserRole } from 'src/user/entities/user.entity';
-import { JwtAuthGuard } from 'src/common/guards/jwt-auth.guard';
-import { RolesGuard } from 'src/common/guards/roles.guard';
+import { Roles } from './../common/decorators/roles.decorator';
+import { UserRole } from './../user/entities/user.entity';
+import { JwtAuthGuard } from './../common/guards/jwt-auth.guard';
+import { RolesGuard } from './../common/guards/roles.guard';
 import { Question } from './entities/question.entity';
 
 @Controller('questions')
