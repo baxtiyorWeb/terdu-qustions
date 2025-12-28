@@ -3,8 +3,6 @@ import { AppModule } from './app.module';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 import { ValidationPipe } from '@nestjs/common';
 import * as express from 'express';
-import helmet from 'helmet';
-import rateLimit from 'express-rate-limit';
 import { join } from 'path';
 import * as dotenv from 'dotenv';
 import { NestExpressApplication } from '@nestjs/platform-express';
@@ -27,16 +25,6 @@ async function bootstrap() {
       whitelist: true,
       forbidNonWhitelisted: true,
       transform: true,
-    }),
-  );
-
-  app.use(helmet({ crossOriginResourcePolicy: false }));
-
-  app.use(
-    rateLimit({
-      windowMs: 60 * 1000,
-      max: 100,
-      message: 'Too many requests, please try again later.',
     }),
   );
 
