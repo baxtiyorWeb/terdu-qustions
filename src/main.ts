@@ -12,7 +12,11 @@ async function bootstrap() {
 
   // 🔹 CORS (HTML + fetch + Vercel uchun mos)
   app.enableCors({
-    origin: 'https://terdu-qustions-frontend.vercel.app',
+    origin: [
+      'https://terdu-qustions-frontend.vercel.app',
+      'http://127.0.0.1:5500',
+      'http://localhost:5173',
+    ],
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization', 'Accept'],
     credentials: false, // ❗ fetch + localStorage uchun false
@@ -20,10 +24,7 @@ async function bootstrap() {
 
   // 🔹 OPTIONS preflight (Vercel uchun SHART)
   app.use((req: Request, res: Response, next: NextFunction) => {
-    res.header(
-      'Access-Control-Allow-Origin',
-      'https://terdu-qustions-frontend.vercel.app',
-    );
+    res.header('Access-Control-Allow-Origin', 'http://localhost:5173');
     res.header(
       'Access-Control-Allow-Methods',
       'GET,POST,PUT,PATCH,DELETE,OPTIONS',
