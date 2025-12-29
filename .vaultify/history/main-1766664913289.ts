@@ -15,7 +15,11 @@ async function bootstrap() {
   app.useStaticAssets(join(__dirname, '..', 'public'));
 
   app.enableCors({
-    origin: ['http://localhost:3000', 'terdu-questions.vercel.app'],
+    origin: [
+      'http://localhost:3000',
+      'http://localhost:5173',
+      'terdu-questions.vercel.app',
+    ],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true,
   });

@@ -1,0 +1,122 @@
+[
+  {
+    "category": "Imlo qoidalari",
+    "question": "O‘zbek tilida unli tovushlar qanday tasniflanadi?",
+    "options": ["Lablangan va lablanmagan", "Jarangli va jarangsiz", "Nafasli va nosaf"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "So‘z boshida “e” harfi yoziladi:",
+    "options": ["eski, el", "temir, tog‘", "kitob, bolalar"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "Qo‘shma so‘zlar qanday yoziladi?",
+    "options": ["Har doim ajratib", "Birga yoziladi", "Har doim chiziqcha bilan"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "Juft so‘zlar yozilishi uchun qoidani ko‘rsating:",
+    "options": ["Har doim birga", "Chiziqcha bilan", "Har doim ajratib"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "So‘z oxirida “b, d, g” tovushlari talaffuzda qanday eshitiladi?",
+    "options": ["p, t, k", "b, d, g", "f, s, h"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "“Qo‘shimcha” so‘zning imlosi qoidasi qaysi?",
+    "options": ["Talaffuzga qarab yoziladi", "Yozuv me’yoriga qarab yoziladi", "Harf soniga qarab yoziladi"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "Tashkilot nomlarini yozishda bosh harf ishlatiladi:",
+    "options": ["Termiz davlat universiteti", "termiz davlat universiteti", "TERMIZ DAVLAT UNIVERSITETI"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "Katta harf bilan boshlanishi shart bo‘lmagan:",
+    "options": ["Kishi ismlari", "Qisqartmalar (so‘zlab o‘qiladigan)", "Geografik nomlar"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "Takror so‘zlar qanday yoziladi?",
+    "options": ["Birga", "Ajratib", "Chiziqcha bilan"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "Bir tushunchani bildirsa so‘zlar qanday yoziladi?",
+    "options": ["Birga", "Ajratib", "Chiziqcha bilan"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "“Borib kelmoq” fe’li qanday yoziladi?",
+    "options": ["Birga", "Ajratib", "Chiziqcha bilan"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "Lablanmagan unlilar qaysilar?",
+    "options": ["a, e, i", "o, u", "o‘, u"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "So‘z ichidagi “i / u” almashuvi:",
+    "options": ["Kitob – kitobi", "Bilim – bilimli", "Qora – qoraymoq"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "“O‘zMU” qisqartmasida qanday yozuv qo‘llanilgan?",
+    "options": ["Harflab o‘qiladi", "So‘zlab o‘qiladi", "To‘liq yoziladi"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "Bo‘g‘in fonetik jihatdan nimaga asoslanadi?",
+    "options": ["Undoshga", "Unliga", "Harfga"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "So‘z urg‘usini aniqlashda asosiy belgi:",
+    "options": ["Bo‘g‘in kuchi", "Harf uzunligi", "Ohang balandligi"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "“Temiryo‘l” so‘zi qanday yoziladi?",
+    "options": ["Qo‘shma so‘z, birga", "Juft so‘z, chiziqcha bilan", "Ajratib"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "“Ota-ona” qanday yoziladi?",
+    "options": ["Birga", "Ajratib", "Chiziqcha bilan"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "“Kitoblar” so‘zidagi qo‘shimcha qanday yoziladi?",
+    "options": ["Talaffuzga qarab", "Yozuv me’yoriga qarab", "Harf soniga qarab"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Imlo qoidalari",
+    "question": "Harflab o‘qiladigan qisqartmalar misol:",
+    "options": ["O‘zMU", "ToshDU", "BMT"],
+    "correctAnswerIndex": 0
+  }
+]

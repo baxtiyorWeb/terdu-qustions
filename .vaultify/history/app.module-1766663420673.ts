@@ -9,6 +9,7 @@ import { AuthModule } from './auth/auth.module';
 import { CategoryModule } from './category/category.module';
 import { QuestionModule } from './question/question.module';
 import { ResultModule } from './result/result.module';
+import { SeedsModule } from './seeds/seeds.module';
 
 @Module({
   imports: [
@@ -45,6 +46,7 @@ import { ResultModule } from './result/result.module';
     CategoryModule,
     QuestionModule,
     ResultModule,
+    SeedsModule,
   ],
   controllers: [AppController],
   providers: [AppService],
