@@ -4,10 +4,10 @@ import { Category } from '../../category/entities/category.entity';
 @Entity()
 export class Question {
   @PrimaryGeneratedColumn()
-  id: number; // Savol ID
+  id: number;
 
   @Column({ type: 'text' })
-  question: string; // Savol matni
+  question: string;
 
   @Column({ type: 'jsonb', nullable: true })
   options: string[] | null;

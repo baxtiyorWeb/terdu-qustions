@@ -7,7 +7,7 @@ export class Question {
   id: number; // Savol ID
 
   @Column({ type: 'text' })
-  question: string; // Savol matni
+  question: string;
 
   @Column({ type: 'jsonb', nullable: true })
   options: string[] | null;
