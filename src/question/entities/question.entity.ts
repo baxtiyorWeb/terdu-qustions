@@ -9,8 +9,8 @@ export class Question {
   @Column({ type: 'text' })
   question: string; // Savol matni
 
-  @Column('simple-array', { nullable: true })
-  options: string[] | null; // Javob variantlari (Massiv), agar null bo'lsa – matnli savol
+  @Column({ type: 'jsonb', nullable: true })
+  options: string[] | null;
 
   @Column('int', { nullable: true })
   correctAnswerIndex: number | null; // To'g'ri javob indeksi (0-based), agar null bo'lsa – matnli savol

@@ -1,20 +1,208 @@
 [
   {
+    "category": "Fonetika",
+    "question": "Fonetika tilshunoslikning qaysi jihatini o‘rganadi?",
+    "options": [
+      "So‘z ma’nosini",
+      "Nutq tovushlarining hosil bo‘lishi va xususiyatlarini",
+      "Gap tuzilishini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Artikulyatsion fonetika nimani tadqiq etadi?",
+    "options": [
+      "Tovushlarning akustik xususiyatlarini",
+      "Tovushlarning nutq a’zolari yordamida hosil bo‘lishini",
+      "Tovushlarning yozuvdagi ifodasini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Akustik fonetikaning asosiy obyekti nima?",
+    "options": [
+      "Tovushning ma’nosi",
+      "Tovushning fizik xususiyatlari",
+      "Tovushning yozilishi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Fonema tushunchasi nimani bildiradi?",
+    "options": [
+      "Nutqdagi har qanday tovushni",
+      "Ma’no farqlovchi minimal tovush birligini",
+      "Harfni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Allofon nima?",
+    "options": [
+      "Mustaqil fonema",
+      "Fonemaning nutqdagi variantlari",
+      "Bo‘g‘in turi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Unli tovushlarning asosiy farqlovchi belgisi qaysi?",
+    "options": [
+      "To‘siq mavjudligi",
+      "Ovozning ustunligi",
+      "Shovqinning ustunligi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Undosh tovushlarda qaysi xususiyat yetakchi hisoblanadi?",
+    "options": ["Ovoz", "Shovqin", "Urg‘u"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "O‘zbek tilida unlilar qaysi belgilariga ko‘ra tasniflanadi?",
+    "options": [
+      "Urg‘u va bo‘g‘iniga ko‘ra",
+      "Lablanish, qator va keng-torligiga ko‘ra",
+      "Jaranglilikka ko‘ra"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Sonor undoshlarning asosiy belgisi nima?",
+    "options": [
+      "Shovqin ustunligi",
+      "Ovoz ustunligi",
+      "Portlash bilan hosil bo‘lishi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Jarangli undosh tovushlar qanday hosil bo‘ladi?",
+    "options": [
+      "Faqat shovqin bilan",
+      "Ovoz va shovqin ishtirokida",
+      "Nafas ishtirokisiz"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Assimilyatsiya hodisasi nimani anglatadi?",
+    "options": [
+      "Tovush tushib qolishini",
+      "Tovushlarning o‘zaro moslashuvini",
+      "Tovush ortishini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Disimilyatsiya hodisasining mohiyati nimada?",
+    "options": [
+      "O‘xshash tovushlarning farqlanishida",
+      "Tovushlarning bir xil bo‘lishida",
+      "Tovushning cho‘zilishida"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Fonetika",
+    "question": "Reduksiya hodisasi asosan qaysi tovushlarga xos?",
+    "options": [
+      "Undosh tovushlarga",
+      "Urg‘usiz unlilarga",
+      "Jarangli undoshlarga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Bo‘g‘in fonetik jihatdan nimaga asoslanadi?",
+    "options": ["Undosh tovushga", "Unli tovushga", "Harfga"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "O‘zbek tilida so‘z urg‘usi odatda qayerga tushadi?",
+    "options": [
+      "Birinchi bo‘g‘inga",
+      "Oxirgi bo‘g‘inga",
+      "O‘rtadagi bo‘g‘inga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Gap urg‘usining asosiy vazifasi nima?",
+    "options": [
+      "Tovush sonini oshirish",
+      "Muhim bo‘lakni ajratish",
+      "So‘z yasash"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Intonatsiya qaysi fonetik vositalar majmuasidan iborat?",
+    "options": ["Tovush va harf", "Ohang, urg‘u, pauza", "Harf va bo‘g‘in"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Nutq tezligi qaysi fonetik hodisaga ko‘proq ta’sir qiladi?",
+    "options": ["Reduksiyaga", "Fonemaga", "Bo‘g‘in turiga"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Fonetika",
+    "question": "Shevalarda fonetik farqlar asosan nimada namoyon bo‘ladi?",
+    "options": ["So‘z yasalishida", "Tovush talaffuzida", "Gap tuzilishida"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Fonetika",
+    "question": "Fonetikaning amaliy ahamiyati nimada ko‘rinadi?",
+    "options": [
+      "Yozma nutqni bezashda",
+      "To‘g‘ri talaffuz va nutq madaniyatini shakllantirishda",
+      "So‘z boyligini oshirishda"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
     "category": "Imlo qoidalari",
-    "question": "O‘zbek tilida unli tovushlar qanday tasniflanadi?",
-    "options": ["Lablangan va lablanmagan", "Jarangli va jarangsiz", "Nafasli va nosaf"],
+    "question": "O‘zbek tilida unli tovushlar qaysi xususiyatlariga ko‘ra tasniflanadi?",
+    "options": [
+      "Lablangan va lablanmagan",
+      "Jarangli va jarangsiz",
+      "Nafasli va nosaf"
+    ],
     "correctAnswerIndex": 0
   },
   {
     "category": "Imlo qoidalari",
-    "question": "So‘z boshida “e” harfi yoziladi:",
+    "question": "Qaysi qatorda so‘z boshida “e” harfi to‘g‘ri yozilgan?",
     "options": ["eski, el", "temir, tog‘", "kitob, bolalar"],
     "correctAnswerIndex": 0
   },
   {
     "category": "Imlo qoidalari",
     "question": "Qo‘shma so‘zlar qanday yoziladi?",
-    "options": ["Har doim ajratib", "Birga yoziladi", "Har doim chiziqcha bilan"],
+    "options": [
+      "Har doim ajratib",
+      "Birga yoziladi",
+      "Har doim chiziqcha bilan"
+    ],
     "correctAnswerIndex": 1
   },
   {
@@ -25,55 +213,67 @@
   },
   {
     "category": "Imlo qoidalari",
-    "question": "So‘z oxirida “b, d, g” tovushlari talaffuzda qanday eshitiladi?",
+    "question": "So‘z oxirida \"b, d, g\" tovushlari talaffuzda qanday eshitiladi?",
     "options": ["p, t, k", "b, d, g", "f, s, h"],
     "correctAnswerIndex": 0
   },
   {
     "category": "Imlo qoidalari",
-    "question": "“Qo‘shimcha” so‘zning imlosi qoidasi qaysi?",
-    "options": ["Talaffuzga qarab yoziladi", "Yozuv me’yoriga qarab yoziladi", "Harf soniga qarab yoziladi"],
+    "question": "Qo‘shimchalarning imlosi qaysi qoidaga asosan belgilanadi?",
+    "options": [
+      "Talaffuzga qarab yoziladi",
+      "Yozuv me’yoriga qarab yoziladi",
+      "Harf soniga qarab yoziladi"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "category": "Imlo qoidalari",
-    "question": "Tashkilot nomlarini yozishda bosh harf ishlatiladi:",
-    "options": ["Termiz davlat universiteti", "termiz davlat universiteti", "TERMIZ DAVLAT UNIVERSITETI"],
+    "question": "Tashkilot nomlari to‘g‘ri yozilgan qatorni aniqlang:",
+    "options": [
+      "Termiz davlat universiteti",
+      "termiz davlat universiteti",
+      "TERMIZ DAVLAT UNIVERSITETI"
+    ],
     "correctAnswerIndex": 0
   },
   {
     "category": "Imlo qoidalari",
-    "question": "Katta harf bilan boshlanishi shart bo‘lmagan:",
-    "options": ["Kishi ismlari", "Qisqartmalar (so‘zlab o‘qiladigan)", "Geografik nomlar"],
+    "question": "Qaysi turdagi so‘zlar katta harf bilan boshlanishi shart emas?",
+    "options": [
+      "Kishi ismlari",
+      "Qisqartmalar (so‘zlab o‘qiladigan)",
+      "Geografik nomlar"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "category": "Imlo qoidalari",
-    "question": "Takror so‘zlar qanday yoziladi?",
+    "question": "Takror so‘zlar (masalan: sekin-sekin) qanday yoziladi?",
     "options": ["Birga", "Ajratib", "Chiziqcha bilan"],
     "correctAnswerIndex": 2
   },
   {
     "category": "Imlo qoidalari",
-    "question": "Bir tushunchani bildirsa so‘zlar qanday yoziladi?",
+    "question": "Bir tushunchani bildiruvchi so‘zlar (masalan: temiryo‘l) qanday yoziladi?",
     "options": ["Birga", "Ajratib", "Chiziqcha bilan"],
     "correctAnswerIndex": 0
   },
   {
     "category": "Imlo qoidalari",
-    "question": "“Borib kelmoq” fe’li qanday yoziladi?",
+    "question": "“Borib kelmoq” kabi qo‘shma fe'llar qanday yoziladi?",
     "options": ["Birga", "Ajratib", "Chiziqcha bilan"],
     "correctAnswerIndex": 1
   },
   {
     "category": "Imlo qoidalari",
-    "question": "Lablanmagan unlilar qaysilar?",
+    "question": "Qaysi unlilar lablanmagan hisoblanadi?",
     "options": ["a, e, i", "o, u", "o‘, u"],
     "correctAnswerIndex": 0
   },
   {
     "category": "Imlo qoidalari",
-    "question": "So‘z ichidagi “i / u” almashuvi:",
+    "question": "Qaysi misolda unli tovushlarning almashuvi (i/u) yuz bergan?",
     "options": ["Kitob – kitobi", "Bilim – bilimli", "Qora – qoraymoq"],
     "correctAnswerIndex": 1
   },
@@ -91,32 +291,4681 @@
   },
   {
     "category": "Imlo qoidalari",
-    "question": "So‘z urg‘usini aniqlashda asosiy belgi:",
+    "question": "So‘z urg‘usini aniqlashda asosiy belgi nima?",
     "options": ["Bo‘g‘in kuchi", "Harf uzunligi", "Ohang balandligi"],
     "correctAnswerIndex": 0
   },
   {
     "category": "Imlo qoidalari",
     "question": "“Temiryo‘l” so‘zi qanday yoziladi?",
-    "options": ["Qo‘shma so‘z, birga", "Juft so‘z, chiziqcha bilan", "Ajratib"],
+    "options": [
+      "Qo‘shma so‘z, birga yoziladi",
+      "Juft so‘z, chiziqcha bilan",
+      "Ajratib yoziladi"
+    ],
     "correctAnswerIndex": 0
   },
   {
     "category": "Imlo qoidalari",
-    "question": "“Ota-ona” qanday yoziladi?",
+    "question": "“Ota-ona” so‘zi qanday yoziladi?",
     "options": ["Birga", "Ajratib", "Chiziqcha bilan"],
     "correctAnswerIndex": 2
   },
   {
     "category": "Imlo qoidalari",
     "question": "“Kitoblar” so‘zidagi qo‘shimcha qanday yoziladi?",
-    "options": ["Talaffuzga qarab", "Yozuv me’yoriga qarab", "Harf soniga qarab"],
+    "options": [
+      "Talaffuzga qarab",
+      "Yozuv me’yoriga qarab",
+      "Harf soniga qarab"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "category": "Imlo qoidalari",
-    "question": "Harflab o‘qiladigan qisqartmalar misol:",
-    "options": ["O‘zMU", "ToshDU", "BMT"],
+    "question": "Qaysi qisqartma harflab o‘qiladiganiga misol bo‘la oladi?",
+    "options": ["O‘zMU", "ToshDU (So'zlab o'qiladi)", "BMT (Harflab o'qiladi)"],
     "correctAnswerIndex": 0
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Yozuvning asosiy maqsadi nima?",
+    "options": [
+      "Faqat san’atni ifodalash",
+      "Ma’lumotni saqlash va uzatish",
+      "Nutqni rivojlantirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Piktogramma nima?",
+    "options": [
+      "Tushunchani rasm bilan ifodalash",
+      "Ob’ektni rasm bilan ifodalash",
+      "Tovush belgisi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Ideogramma nimani bildiradi?",
+    "options": ["Harf", "Tushunchani yoki harakatni", "Bo‘g‘in"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Qaysi madaniyatda ilk yozuv tizimi (mixxat) paydo bo‘lgan?",
+    "options": ["Misr", "Mesopotamiya", "Xitoy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Misr yozuvi qanday nomlanadi?",
+    "options": ["Piktogramma", "Gieroglif", "Alfavit"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Xitoy yozuvi qaysi turga kiradi?",
+    "options": ["Fonetik", "Ideografik", "Alfavit"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Fenikiy yozuvi nimasi bilan mashhur?",
+    "options": [
+      "Har bir belgi bir tushunchani bildiradi",
+      "Tovush belgilariga asoslangan alifbo",
+      "Rasmiy yozuv"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Greka alifbosi qaysi yozuvdan rivojlangan?",
+    "options": ["Fenikiy", "Misr", "Xitoy"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Lotin alifbosi qachon rivojlangan?",
+    "options": ["Rim davrida", "Fenikiy davrida", "Mesopotamiya davrida"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Qadimgi slavyan yozuvi (Kirill/Glagolitsa) kimlar tomonidan yaratilgan?",
+    "options": [
+      "Bizans diniy shogirdlari",
+      "Arab olimlari",
+      "Rim faylasuflari"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Arab yozuvi qayerda rivojlangan?",
+    "options": ["Evropa", "Islom madaniyati doirasida (Yaqin Sharq)", "Xitoy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "O‘zbek yozuv tarixi qaysi ketma-ketlikda rivojlangan (asosiy uch alifbo)",
+    "options": [
+      "Kirill → Lotin → Arab → Lotin",
+      "Arab → Lotin → Kirill → Lotin (hozirgi)",
+      "Lotin → Kirill → Arab → Lotin"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "“Temiryo‘l” so‘zi qaysi yozuv turiga misol bo‘la oladi?",
+    "options": ["Alfavit (Fonografik)", "Ideogramma", "Piktogramma"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Yozuvning rivojlanish bosqichlari qaysi ketma-ketlikda?",
+    "options": [
+      "Alfavit → Ideogramma → Piktogramma",
+      "Piktogramma → Ideogramma → Alfavit",
+      "Ideogramma → Piktogramma → Alfavit"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Alifbo asosida yozuvning (masalan, Lotin) afzalligi nima?",
+    "options": [
+      "Harf soni juda ko‘p",
+      "Har bir belgi tovushni ifodalaydi (fonografik)",
+      "Faqat rasmiy yozuv uchun mos"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Arab yozuvi qanday yo‘nalishda yoziladi?",
+    "options": ["Chapdan o‘ngga", "O‘ngdan chapga", "Yuqoridan pastga"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Kirill alifbosi qaysi xalq uchun yaratilgan?",
+    "options": ["Slavyan xalqlari", "Arab xalqlari", "Fenikiy xalqlari"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Yozuvning eng asosiy vazifasi qaysi?",
+    "options": [
+      "Madaniyatni bezash",
+      "Madaniyat va bilimni avloddan-avlodga uzatish",
+      "Til o‘rganish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Alifbo asosida yozuv qaysi jihatdan samaraliroq?",
+    "options": [
+      "Rasm orqali tushunish",
+      "Fonetik jihatdan aniq va tez yozish (cheklangan belgilar orqali)",
+      "San’at asarlari yaratish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Yozuv tarixi",
+    "question": "Yozuv tarixi fanining ahamiyati nimada?",
+    "options": [
+      "Madaniyat va tarixni o‘rganishda",
+      "Faqat tilshunoslik uchun",
+      "Faqat adabiyot bilan bog‘liq"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "category": "Til tarixi",
+    "question": "Til tarixi nima o‘rganadi?",
+    "options": [
+      "Nutq tovushlarini",
+      "Tilning paydo bo‘lishi, rivojlanishi va o‘zgarishini",
+      "Adabiyotlarni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Tilning paydo bo‘lishi nazariyalaridan biri emas:",
+    "options": [
+      "Ijtimoiy nazariya",
+      "Biologik nazariya",
+      "Astronomik nazariya"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Dastlabki nutq qanday shaklda bo‘lgan?",
+    "options": [
+      "Yozuv orqali",
+      "Hayvoniy ovoz va imo-ishora orqali",
+      "Alfavit orqali"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Qadimgi yozuv tizimlari qaysi turga kiradi?",
+    "options": ["Piktogramma va ideogramma", "Alfavit", "Fonemik yozuv"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Piktogramma nimani bildiradi?",
+    "options": ["Tushunchani", "Ob’ektni rasm bilan ifodalash", "Harfni"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Ideogramma nimani ifodalaydi?",
+    "options": [
+      "Ob’ektni rasm bilan",
+      "Tushunchani yoki harakatni",
+      "Tovush belgisi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Grek alifbosi qaysi yozuvdan rivojlangan?",
+    "options": ["Xitoy", "Fenikiy", "Misr"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Lotin alifbosi qachon rivojlangan?",
+    "options": ["Rim davrida", "Fenikiy davrida", "Mesopotamiya davrida"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Arab yozuvi qanday yo‘nalishda yoziladi?",
+    "options": ["Chapdan o‘ngga", "O‘ngdan chapga", "Yuqoridan pastga"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Kirill alifbosi kimlar uchun yaratilgan?",
+    "options": ["Arab xalqlari", "Slavyan xalqlari", "Fenikiy xalqlari"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til tarixi",
+    "question": "O‘zbek tilining ma'lum bo‘lgan birinchi yozma manbai qaysi?",
+    "options": [
+      "Qur’on",
+      "Devonu lug‘otit turk (Mahmud Koshg‘ariy)",
+      "Alfavit kitobi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til tarixi",
+    "question": "O‘zbek yozuvidagi Arab yozuvi davri qachondan qachongacha keng qo‘llanilgan?",
+    "options": ["XIV–XX asrlar", "1928–1940", "1940–1991"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Lotin alifbosi O‘zbekistonda birinchi marta (Yangi turk alifbosi sifatida) joriy qilingan yil:",
+    "options": ["1928", "1940", "1993"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Til tarixi",
+    "question": "O‘zbek tili Kirill alifbosida qachondan ishlatilgan?",
+    "options": ["1928–1940", "1940–1991", "1993–hozirgi kun"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til tarixi",
+    "question": "O‘zbek tilining hozirgi rasmiy alifbosi qaysi turga kiradi?",
+    "options": ["Arab", "Kirill", "Lotin"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Tilning rivojlanishiga eng kam ta’sir qiluvchi omil:",
+    "options": [
+      "Ijtimoiy-siyosiy omillar",
+      "Kontakt tillar",
+      "Planetalar harakati"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Til tarixini o‘rganishning ahamiyati nima?",
+    "options": [
+      "Faqat adabiyot bilan bog‘liq",
+      "Madaniyat va tarixni o‘rganish",
+      "Faqat nutq talaffuzi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Tilning ichki omillariga nimalar kiradi?",
+    "options": [
+      "Talaffuz, grammatik va leksik o‘zgarishlar",
+      "Hujjat va qonunlar",
+      "Tarixiy hodisalar"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Milliy tilning shakllanishi qaysi omillarga bog‘liq?",
+    "options": [
+      "Ijtimoiy, madaniy, tarixiy va ichki til omillari",
+      "Faqat madaniyat",
+      "Faqat siyosiy hokimiyat"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Til tarixi",
+    "question": "Yozuv orqali til tarixini o‘rganishning asosiy manbalari:",
+    "options": [
+      "Kitob va qo‘lyozmalar",
+      "Nutq talaffuzi",
+      "Rasm va san’at asarlari"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Nuqta (.) nima vazifani bajaradi?",
+    "options": [
+      "So‘zlarni ajratadi",
+      "Gap oxirini bildiradi (darakt gaplarda)",
+      "Savolni bildiradi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Vergul (,) qachon ishlatiladi?",
+    "options": [
+      "Gap oxirida",
+      "Gap ichida so‘z yoki iboralarni ajratishda (sanoq, undalma, kirish)",
+      "Savol tugatishda"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Undov (!) qaysi holatda ishlatiladi?",
+    "options": [
+      "Savol berishda",
+      "Kuchli his-tuyg‘u yoki chaqiriqni bildirganda",
+      "Tushuntirish berishda"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Savol (?) belgisi qachon qo‘yiladi?",
+    "options": ["Faqat so‘z oxirida", "Savol gap oxirida", "Gap ichida"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Nuqta-vergul (;) qaysi vazifani bajaradi?",
+    "options": [
+      "Gap oxirini bildiradi",
+      "Murakkab gapdagi mustaqil bo‘laklarni ajratadi",
+      "Nutq ohangini bildiradi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Chiziqcha (-) qachon ishlatiladi?",
+    "options": [
+      "Ajratilgan so‘zlar yoki takror so‘zlar orasida (masalan: ota-ona)",
+      "Gap oxirida",
+      "Savol tugatishda"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Tirnoq (“ ”) nima uchun ishlatiladi?",
+    "options": [
+      "Qo‘shimcha ma’lumot uchun",
+      "To‘g‘ridan-to‘g‘ri nutq, iqtibos yoki so‘z ajratishda",
+      "Gap oxirida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Qavs (()) qachon ishlatiladi?",
+    "options": [
+      "Qo‘shimcha ma’lumot yoki tushuntirish berishda",
+      "Savol tugatishda",
+      "Kuchli his-tuyg‘u bildirganda"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Uch nuqta (…) nimani bildiradi?",
+    "options": [
+      "Gapning tugaganini",
+      "Gap davom etishini, uzilishini yoki matnning tushirib qoldirilganini",
+      "Savolni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Tire (—) gap ichida qachon ishlatiladi?",
+    "options": [
+      "Nutqdagi qarama-qarshi fikr yoki izohni ajratishda (kesim va ega orasida)",
+      "Gap oxirida",
+      "Savol berishda"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "“U dedi: ‘Men kitobni o‘qidim.’” gapida qaysi tinish belgisi ishlatilmagan?",
+    "options": ["Tirnoq", "Nuqta", "Qavs"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "“Maktab, shuningdek kutubxona ham ta’mirlandi.” gapida qaysi tinish belgisi ishlatilgan?",
+    "options": ["Nuqta", "Vergul", "Undov"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "“Qarang! Bu juda go‘zal.” gapida qaysi tinish belgisi ishlatilgan?",
+    "options": ["Savol", "Undov", "Nuqta"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Tinish belgilar matnda nima uchun kerak?",
+    "options": [
+      "Faqat yozishni chiroyli qilish uchun",
+      "Matn ma’nosini tushunarli qilish va ajratish uchun",
+      "Faqat grammatikani to‘g‘rilash uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Uch nuqtaning yana bir qo‘llanishi:",
+    "options": [
+      "Gapni to‘xtatib qoldirish (emosional uzilish)",
+      "Gap oxirini belgilash",
+      "So‘zlarni ajratish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Chiziqcha bilan ajratilgan so‘zlar misoli (juft so‘z):",
+    "options": ["ota-ona", "kitoblar", "yaxshi"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Nuqta-vergul bilan ajratilgan gap misoli:",
+    "options": [
+      "U kitobni olib keldi; men esa daftarni. (Murakkab gap bo'laklari)",
+      "Kitoblar chiroyli.",
+      "Savol berdingiz?"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Tirnoq ichidagi matn nima uchun ishlatiladi?",
+    "options": [
+      "Iqtibos yoki to‘g‘ridan-to‘g‘ri nutqni ko‘rsatish",
+      "Gap oxirini belgilash",
+      "So‘zlarni ajratish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "Qavs ichidagi ma’lumot nima vazifani bajaradi?",
+    "options": [
+      "Gapni tugatish uchun",
+      "Qo‘shimcha tushuntirish yoki izoh berish",
+      "Kuchli his-tuyg‘uni ko‘rsatish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tinish belgilari",
+    "question": "“5–10 daqiqa kuting.” gapidagi chiziqcha vazifasi:",
+    "options": [
+      "Sonlar oralig‘ini ko‘rsatish (dan...gacha)",
+      "Gap oxirini belgilash",
+      "Savol belgisini almashtirish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminologiya fanining asosiy o‘rganish obyekti nima?",
+    "options": [
+      "So‘zlarning kelib chiqishi",
+      "Terminlar va terminologik tizim",
+      "Frazeologik birliklar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Termin deb nimaga aytiladi?",
+    "options": [
+      "Ko‘p ma’noli so‘zga",
+      "Muayyan soha tushunchasini aniq ifodalovchi birlikka",
+      "Og‘zaki nutq birligiga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminlarning asosiy xususiyatlaridan biri qaysi?",
+    "options": [
+      "Ko‘p ma’nolilik",
+      "Bir ma’nolilik (monosemiya)",
+      "Emotsionallik"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Qaysi qatorda faqat terminlar berilgan?",
+    "options": [
+      "Go‘zal, tez, baland",
+      "Fonema, morfema, sintaksis (Tilshunoslik termini)",
+      "Bahor, qish, yoz"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminologiya qaysi fan sohasi bilan bevosita bog‘liq?",
+    "options": ["Stilistika", "Leksikologiya", "Orfografiya"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminologiyaning amaliy vazifasi nimadan iborat?",
+    "options": [
+      "Badiiy nutqni boyitish",
+      "Ilmiy tushunchalarni aniq nomlash (standartlashtirish)",
+      "Shevalarni o‘rganish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminlar qanday nutq uslubida ko‘proq qo‘llanadi?",
+    "options": ["So‘zlashuv uslubida", "Badiiy uslubda", "Ilmiy uslubda"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Termin va oddiy so‘zning asosiy farqi nimada?",
+    "options": [
+      "Talaffuzida",
+      "Ma’no aniqligida (Bir ma’noliligi)",
+      "Grammatik shaklida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Qaysi holatda so‘z termin hisoblanadi?",
+    "options": [
+      "Ko‘chma ma’noda ishlatilsa",
+      "Muayyan soha tushunchasini ifodalasa",
+      "Badiiy tasvir bersa"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminologik tizim deganda nimani tushunasiz?",
+    "options": [
+      "Terminlarning tasodifiy yig‘indisini",
+      "Bir fan terminlarining o‘zaro bog‘liq majmuasini",
+      "Dialekt so‘zlarni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Qaysi fan terminologiyani me’yorlashtirish bilan shug‘ullanadi?",
+    "options": ["Fonetika", "Terminologiya", "Morfologiya"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Xalqaro terminlar asosan qaysi tillardan kirib kelgan?",
+    "options": [
+      "Turk va fors tillaridan",
+      "Arab va fors tillaridan",
+      "Lotin va yunon tillaridan"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Qaysi biri terminning belgisi EMAS?",
+    "options": ["Aniqlik", "Bir ma’nolilik", "Emotsionallik"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminologiya fanining nazariy vazifasi nimadan iborat?",
+    "options": [
+      "Yangi so‘z yasash",
+      "Terminlarning tuzilishi va rivojini o‘rganish",
+      "Talaffuz qoidalarini belgilash"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Qaysi qatorda termin va umumxalq so‘zi aralash berilgan?",
+    "options": [
+      "Energiya, impuls, kuch",
+      "Kitob, daftar, qalam",
+      "Limit, funksiya, chiroyli (chiroyli-umumxalq so'zi)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminlar qanday talablarga javob berishi kerak?",
+    "options": [
+      "Ko‘p ma’noli bo‘lishi",
+      "Qisqa va aniq bo‘lishi (imkon qadar)",
+      "Hissiy bo‘yoqli bo‘lishi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminologik birliklar qaysi yo‘l bilan boyiydi?",
+    "options": [
+      "Faqat shevalar orqali",
+      "Yangi terminlar yaratish va o‘zlashtirish orqali",
+      "Frazeologizmlar orqali"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Qaysi fan terminologiyasi “integral”, “limit” kabi terminlarni o‘z ichiga oladi?",
+    "options": ["Fizika", "Kimyo", "Matematika"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminologiya fanining shakllanishi nimaga bog‘liq?",
+    "options": [
+      "Badiiy adabiyotga",
+      "Fan va texnika taraqqiyotiga",
+      "Og‘zaki nutqqa"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminologiya",
+    "question": "Terminologiya va leksikologiya o‘rtasidagi bog‘liqlik nimada?",
+    "options": [
+      "Ikkalasi ham fonetikani o‘rganadi",
+      "Ikkalasi ham so‘z boyligini (leksikani) o‘rganadi",
+      "Ikkalasi ham sintaksis bilan shug‘ullanadi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminologiya nimani o‘rganadi?",
+    "options": ["Shevalarni", "Terminlar tizimini", "Badiiy so‘zlarni"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Termin qanday ma’noga ega bo‘ladi?",
+    "options": ["Ko‘p ma’noli", "Ko‘chma", "Bir ma’noli (monosemiya)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Qaysi biri termin emas?",
+    "options": ["Fonema", "Morfema", "Chiroyli"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminologik tizim deganda nima tushuniladi?",
+    "options": [
+      "So‘zlar yig‘indisi",
+      "Tasodifiy birliklar",
+      "O‘zaro bog‘langan terminlar majmui"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminlar qaysi uslubda ko‘p ishlatiladi?",
+    "options": ["Badiiy", "So‘zlashuv", "Ilmiy"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Xalqaro terminlar asosan qaysi tillardan olingan?",
+    "options": ["Turk", "Arab", "Lotin-yunon"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminlarning asosiy talabi qaysi?",
+    "options": ["Obrazlilik", "Aniqlik", "Emotsionallik"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminologiyaning amaliy vazifasi nima?",
+    "options": [
+      "Talaffuzni o‘rganish",
+      "Tushunchalarni nomlash (me’yorlashtirish)",
+      "Shevalarni tadqiq qilish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Termin va oddiy so‘z farqi nimada?",
+    "options": ["Yozilishida", "Talaffuzida", "Ma’no aniqligida"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminologiya qaysi fan bilan bog‘liq?",
+    "options": ["Leksikologiya", "Dialektologiya", "Stilistika"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Ilmiy uslub va sohaviy matn",
+    "question": "Ilmiy uslubning asosiy belgisi qaysi?",
+    "options": ["Tasviriylik", "Emotsionallik", "Aniqlik va mantiqiylik"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Ilmiy uslub va sohaviy matn",
+    "question": "Ilmiy matnda qaysi birliklar ustun?",
+    "options": ["Frazeologizmlar", "Terminlar", "Tasviriy so‘zlar"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Ilmiy uslub va sohaviy matn",
+    "question": "Ilmiy matnning asosiy maqsadi nima?",
+    "options": [
+      "Ta’sirlash",
+      "Axborot berish (xabar uzatish)",
+      "Ko‘ngil ochish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Ilmiy uslub va sohaviy matn",
+    "question": "Sohaviy matnlar qaysi shaklda ko‘p bo‘ladi?",
+    "options": ["Og‘zaki", "Yozma", "Asosan yozma"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Ilmiy uslub va sohaviy matn",
+    "question": "Ilmiy uslubda gaplar qanday bo‘ladi?",
+    "options": ["Qisqa va sodda", "Murakkab va mantiqiy", "Hissiy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Ilmiy uslub va sohaviy matn",
+    "question": "Ilmiy matnda shaxsiy munosabat qanday ifodalanadi?",
+    "options": [
+      "Keng",
+      "Umuman ifodalanmaydi",
+      "Cheklangan (ob’ektivlik ustun)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Ilmiy uslub va sohaviy matn",
+    "question": "Ilmiy uslub qaysi sohalarda ishlatiladi?",
+    "options": ["Adabiyotda", "Fan va texnikada", "Og‘zaki nutqda"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Ilmiy uslub va sohaviy matn",
+    "question": "Ilmiy nutqda sinonimlar qanday tanlanadi?",
+    "options": ["Erkin", "Tasodifiy", "Ma’nosi aniq bo‘lgan"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Ilmiy uslub va sohaviy matn",
+    "question": "Ilmiy matnning tuzilishi qanday bo‘ladi?",
+    "options": ["Erkin", "Rejasiz", "Mantiqiy va tizimli"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Ilmiy uslub va sohaviy matn",
+    "question": "Sohaviy matn tilining asosiy talabi qaysi?",
+    "options": ["Chiroylilik", "Qiziqarlilik", "Aniqlik"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminologiya nimani o‘rganadi?",
+    "options": ["Shevalarni", "Terminlar tizimini", "Badiiy so‘zlarni"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Termin qanday ma’noga ega bo‘ladi?",
+    "options": ["Ko‘p ma’noli", "Ko‘chma", "Bir ma’noli (monosemiya)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Qaysi biri termin emas?",
+    "options": ["Fonema", "Morfema", "Chiroyli"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminologik tizim deganda nima tushuniladi?",
+    "options": [
+      "So‘zlar yig‘indisi",
+      "Tasodifiy birliklar",
+      "O‘zaro bog‘langan terminlar majmui"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminlar qaysi uslubda ko‘p ishlatiladi?",
+    "options": ["Badiiy", "So‘zlashuv", "Ilmiy"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Xalqaro terminlar asosan qaysi tillardan olingan?",
+    "options": ["Turk", "Arab", "Lotin-yunon"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminlarning asosiy talabi qaysi?",
+    "options": ["Obrazlilik", "Aniqlik", "Emotsionallik"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminologiyaning amaliy vazifasi nima?",
+    "options": [
+      "Talaffuzni o‘rganish",
+      "Tushunchalarni nomlash (me’yorlashtirish)",
+      "Shevalarni tadqiq qilish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Termin va oddiy so‘z farqi nimada?",
+    "options": ["Yozilishida", "Talaffuzida", "Ma’no aniqligida"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Termin va Terminologiya",
+    "question": "Terminologiya qaysi fan bilan bog‘liq?",
+    "options": ["Leksikologiya", "Dialektologiya", "Stilistika"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Til nima?",
+    "options": ["Biologik hodisa", "Ijtimoiy hodisa", "Fiziologik jarayon"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Tilning asosiy vazifasi qaysi?",
+    "options": ["Estetik", "Kommunikativ (Aloqa vositasi)", "Grafik"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Yozuv deganda nima tushuniladi?",
+    "options": [
+      "Tovushlar majmui",
+      "Til birliklarini grafik belgilar orqali ifodalash tizimi",
+      "Nutq jarayoni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Til va yozuv munosabati qanday?",
+    "options": [
+      "Bir vaqtda paydo bo‘lgan",
+      "Yozuv tildan oldin paydo bo‘lgan",
+      "Til yozuvdan oldin paydo bo‘lgan"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Yozuvning asosiy vazifasi qaysi?",
+    "options": [
+      "Nutqni bezash",
+      "Axborotni saqlash va uzatish",
+      "Tovushlarni o‘zgartirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Qaysi yozuv turi eng qadimgi hisoblanadi?",
+    "options": ["Alfavitli", "Fonetik", "Piktografik (Rasm yozuvi)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Ideografik yozuvning asosiy belgisi:",
+    "options": [
+      "Harfga asoslanadi",
+      "Tovushni ifodalaydi",
+      "Tushunchani bildiradi"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Fonografik yozuv nimaga asoslanadi?",
+    "options": ["Rasmga", "Tovushga", "Ma’noga"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Alfavitli yozuvning asosiy birligi:",
+    "options": ["Bo‘g‘in", "Tushuncha", "Harf"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Yozuv qaysi sohalar rivojiga katta ta’sir ko‘rsatgan?",
+    "options": ["Faqat adabiyot", "Ilm-fan va madaniyat", "Faqat savdo"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Tilning kognitiv vazifasi nimani anglatadi?",
+    "options": ["Muloqotni", "Tafakkur va bilishni", "His-tuyg‘uni"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Akkumulyativ vazifa nimani bildiradi?",
+    "options": [
+      "Axborotni yetkazishni",
+      "Tajribani saqlashni (to'plash, jamg'arish)",
+      "Hisni ifodalashni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Yozuv bo‘lmagan jamiyatda axborot qanday uzatilgan?",
+    "options": ["Faqat yozma", "Og‘zaki", "Grafik"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Qaysi yozuv turi bo‘g‘inlarga asoslanadi?",
+    "options": ["Alfavitli", "Piktografik", "Bo‘g‘inli"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Yozuv tarixini o‘rganish qaysi fan bilan bog‘liq?",
+    "options": [
+      "Stilistika",
+      "Grafika",
+      "Paleografiya (Qadimgi yozuvlarni o'rganish)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Tilning identifikatsion vazifasi nimani bildiradi?",
+    "options": [
+      "Axborot uzatishni",
+      "Milliy o‘zlikni ifodalashni",
+      "Grafik tizimni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Yozuv qachon vujudga kelgan?",
+    "options": ["Til bilan bir vaqtda", "Tildan keyin", "Tildan oldin"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Harf va tovush munosabati qaysi soha tomonidan o‘rganiladi?",
+    "options": ["Leksikologiya", "Grafika", "Morfologiya"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Qaysi yozuv turi eng keng tarqalgan?",
+    "options": ["Piktografik", "Ideografik", "Alfavitli"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Til qaysi hodisa hisoblanadi?",
+    "options": ["Biologik", "Texnik", "Ijtimoiy"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Yozuvning paydo bo‘lishiga nima sabab bo‘lgan?",
+    "options": ["Estetik ehtiyoj", "Axborotni saqlash ehtiyoji", "San’at"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Til va yozuv o‘rtasidagi farq nimada?",
+    "options": [
+      "Til faqat yozma",
+      "Yozuv og‘zaki",
+      "Til og‘zaki, yozuv grafik (yozma)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Qaysi yozuv turi rasmlarga asoslangan?",
+    "options": ["Alfavitli", "Fonetik", "Piktografik"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Yozuvning grafik belgilar majmui nima deyiladi?",
+    "options": ["Fonema", "Alfavit", "Leksika"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Tilning estetik vazifasi qaysi sohada yaqqol namoyon bo‘ladi?",
+    "options": ["Ilmiy uslubda", "Rasmiy uslubda", "Badiiy adabiyotda"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Yozuv tilning qaysi shaklini mustahkamlaydi?",
+    "options": ["Og‘zaki", "Yozma", "Sheva"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Qaysi fan yozuv belgilarini o‘rganadi?",
+    "options": ["Fonologiya", "Grafika", "Leksikologiya"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Yozuv taraqqiyoti nimaga bog‘liq?",
+    "options": ["Iqlimga", "Jamiyat taraqqiyotiga", "Tasodifga"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Til va yozuvning umumiy jihati:",
+    "options": [
+      "Ikkalasi ham grafik",
+      "Ikkalasi ham muloqot vositasi",
+      "Ikkalasi ham tovush"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Til va Yozuv masalalari",
+    "question": "Til va yozuv masalalarini o‘rganish nimaga xizmat qiladi?",
+    "options": [
+      "Faqat tarixga",
+      "Nutq madaniyatini oshirishga",
+      "Faqat imloga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Leksik sath nimani o‘rganadi?",
+    "options": ["Tovushlarni", "So‘z va uning ma’nolarini", "Gap tuzilishini"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Leksik birlikning asosiy turi qaysi?",
+    "options": ["Fonema", "Morfema", "So‘z"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "So‘zning leksik ma’nosi deganda nima tushuniladi?",
+    "options": [
+      "Grammatik shakli",
+      "Tovush tarkibi",
+      "Borliqdagi predmet va hodisani ifodalashi"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Bir necha ma’noga ega bo‘lgan so‘z qanday ataladi?",
+    "options": ["Sinonim", "Omonim", "Ko‘p ma’noli so‘z"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Bir xil shaklda, turli ma’noga ega so‘zlar (masalan, 'yoz', 'olma'):",
+    "options": ["Sinonimlar", "Omonimlar", "Antonimlar"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Ma’nosi bir-biriga yaqin so‘zlar qanday ataladi?",
+    "options": ["Antonim", "Omonim", "Sinonim"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Ma’nosi qarama-qarshi bo‘lgan so‘zlar:",
+    "options": ["Sinonim", "Omonim", "Antonim"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Talaffuzi o‘xshash, ma’nosi farqli so‘zlar (masalan: qabul/g‘abul):",
+    "options": ["Omonim", "Sinonim", "Paronim"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "O‘zbek tilining asosiy lug‘at boyligini nima tashkil etadi?",
+    "options": ["O‘zlashma so‘zlar", "Terminlar", "Umumxalq so‘zlari"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Faqat ma’lum kasb yoki sohada ishlatiladigan so‘zlar:",
+    "options": ["Umumxalq so‘zlari", "Terminlar", "Sheva so‘zlar"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Ma’lum hududda ishlatiladigan so‘zlar:",
+    "options": ["Terminlar", "Neologizmlar", "Dialektizmlar"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Hozirgi tilimizda kam qo‘llanadigan eski so‘zlar (lekin predmetlari bor):",
+    "options": ["Neologizm", "Termin", "Arxaizm"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Yangi paydo bo‘lgan so‘zlar qanday ataladi?",
+    "options": ["Arxaizm", "Istorizm", "Neologizm"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Tarixiy hodisa va buyum nomlari bilan bog‘liq eskirgan so‘zlar (masalan: amaldor, mingboshi):",
+    "options": ["Arxaizm", "Istorizm", "Sinonim"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Leksikologiya nimani o‘rganadi?",
+    "options": ["Gap tuzilishini", "So‘z boyligini", "Tovush tizimini"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "So‘zlarning kelib chiqishini o‘rganadigan soha:",
+    "options": ["Semasiologiya", "Etimologiya", "Frazeologiya"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Barqaror so‘z birikmalari (masalan: burni ko‘tarilmoq) qanday ataladi?",
+    "options": ["Sinonim", "Termin", "Frazeologizm"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "“Ko‘ngli tog‘day” birikmasi qaysi leksik birlikka kiradi?",
+    "options": ["Erkin birikma", "Termin", "Frazeologizm"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Leksik ma’no nimaga bog‘liq?",
+    "options": [
+      "So‘z tartibiga",
+      "So‘zning shakliga",
+      "Borliq bilan munosabatiga"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Bir ma’noli so‘zlar asosan qayerda uchraydi?",
+    "options": [
+      "Badiiy uslubda",
+      "So‘zlashuv nutqida",
+      "Ilmiy va rasmiy uslubda"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "O‘zlashma so‘zlar deganda nima tushuniladi?",
+    "options": [
+      "Sheva so‘zlari",
+      "Boshqa tillardan kirgan so‘zlar",
+      "Eskirgan so‘zlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "O‘zbek tiliga eng ko‘p so‘z qaysi tillardan o‘zlashgan?",
+    "options": ["Xitoy va koreys", "Arab, fors, rus", "Yapon va ingliz"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Leksik sath qaysi til sathiga kiradi?",
+    "options": ["Fonetik", "Grammatik", "Lug‘aviy"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "So‘z boyligining kengayish manbalaridan biri:",
+    "options": ["Tovush almashinuvi", "So‘z yasalishi", "Gap tuzilishi"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Sinonimlar nutqda nima uchun muhim?",
+    "options": [
+      "Talaffuzni o‘zgartiradi",
+      "Nutqni boyitadi (monotonlikni yo‘qotadi)",
+      "Grammatikani o‘zgartiradi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Leksik sathning asosiy vazifasi:",
+    "options": [
+      "Tovushlarni o‘rganish",
+      "So‘z ma’nolarini aniqlash",
+      "Gap tuzish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "“Ona”, “ota”, “yer” so‘zlari qaysi qatlamga kiradi?",
+    "options": ["Terminologik", "O‘zlashma", "Umumxalq (tub so‘zlar)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Leksik me’yor nimani belgilaydi?",
+    "options": ["So‘z tartibini", "So‘zning to‘g‘ri qo‘llanishini", "Urg‘uni"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "So‘z ma’nosini o‘rganadigan bo‘lim:",
+    "options": ["Etimologiya", "Semasiologiya", "Fonologiya"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Leksik sath",
+    "question": "Leksik sathni bilish nimaga xizmat qiladi?",
+    "options": [
+      "Imlo qoidalariga",
+      "Nutq madaniyatini oshirishga (so‘z tanlash)",
+      "Tovushlarni farqlashga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Termin nima?",
+    "options": [
+      "Badiiy ifoda vositasi",
+      "Muayyan soha tushunchasini ifodalovchi so‘z",
+      "Shevaga oid birlik"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminlarning asosiy belgisi qaysi?",
+    "options": [
+      "Ko‘p ma’nolilik",
+      "Emotsionallik",
+      "Bir ma’nolilik (Monosemiya)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminlar asosan qaysi uslubda qo‘llanadi?",
+    "options": ["Badiiy", "So‘zlashuv", "Ilmiy"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Termin yasashning eng keng tarqalgan usuli qaysi?",
+    "options": [
+      "Tovush almashinuvi",
+      "So‘z yasalishi (Morfologik usul)",
+      "Qisqartirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Affikslar yordamida termin yasash qanday ataladi?",
+    "options": [
+      "Kompozitsiya",
+      "Affiksatsiya (yoki Morfologik usul)",
+      "Konversiya"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Ikki yoki undan ortiq so‘z asosida termin yasash:",
+    "options": [
+      "Affiksatsiya",
+      "Semantik yo‘l",
+      "Kompozitsiya (yoki qo‘shma so‘z hosil qilish)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Mavjud so‘zga yangi ma’no berish orqali termin yasash (masalan, 'ildiz' - matematikada):",
+    "options": ["Fonetik", "Morfologik", "Semantik (Ma’no ko‘chishi)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Boshqa tillardan olinib termin sifatida qo‘llanadigan so‘zlar:",
+    "options": ["Umumxalq so‘zlari", "Dialektizmlar", "O‘zlashma terminlar"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Qisqartma terminlarga misol qaysi?",
+    "options": ["Hisob-kitob", "OTM (Oliy ta’lim muassasasi)", "Bilimdon"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminlarning yasalishida qaysi talab muhim?",
+    "options": ["Emotsionallik", "Badiiylik", "Aniqlik va ixchamlik"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminlar ko‘pincha qaysi qatlamdan olinadi?",
+    "options": [
+      "So‘zlashuv leksikasi",
+      "Umumxalq leksikasi (Terminologizatsiya)",
+      "Badiiy til"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "So‘z birikmasi shaklidagi terminlar qanday ataladi?",
+    "options": [
+      "Oddiy terminlar",
+      "Murakkab terminlar (yoki terminologik birikmalar)",
+      "Qisqartmalar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminlarni standartlashtirish nimani ta’minlaydi?",
+    "options": ["Emotsionallikni", "Bir xillik va aniqlikni", "Badiiylikni"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Qaysi yo‘l termin yasashga xos emas?",
+    "options": ["Affiksatsiya", "Kompozitsiya", "Tasviriy ifoda (Badiiylik)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminologiya nimani o‘rganadi?",
+    "options": ["Tovushlarni", "So‘z yasalishini", "Terminlar tizimini"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "O‘zbek tilida termin yasashda qaysi affikslar faol?",
+    "options": ["-chi, -lik, -noma", "-gina, -jon", "-cha, -chak"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "“Axborot texnologiyalari” qanday termin?",
+    "options": ["Oddiy", "Qisqartma", "Murakkab (yoki terminologik birikma)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Xalqaro terminlar nimasi bilan ajralib turadi?",
+    "options": [
+      "Faqat milliy bo‘ladi",
+      "Bir nechta tilda o‘xshash shaklda ishlatiladi",
+      "Badiiy bo‘ladi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Termin yasashda semantik yo‘l nimani anglatadi?",
+    "options": [
+      "So‘z shaklini o‘zgartirish",
+      "Yangi tovush qo‘shish",
+      "Eski so‘zga yangi ma’no berish"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminlarning asosiy vazifasi:",
+    "options": [
+      "Ta’sir o‘tkazish",
+      "Estetik zavq berish",
+      "Ilmiy tushunchani aniq ifodalash"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Qaysi termin yasash usuli sintaktik usulga kiradi?",
+    "options": ["Affiksatsiya", "Kompozitsiya", "So‘z birikmasi orqali yasash"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminlarning me’yoriyligi nimani bildiradi?",
+    "options": [
+      "Erkin qo‘llanishni",
+      "Rasmiy tasdiqlangan bo‘lishini (Standartlashtirish)",
+      "Badiiy bo‘lishini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Qaysi termin yasash usuli qisqartirishga asoslanadi?",
+    "options": ["Affiksatsiya", "Abbreviatsiya (Qisqartirish)", "Kompozitsiya"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminologik tizim deganda nima tushuniladi?",
+    "options": [
+      "Tasodifiy so‘zlar",
+      "Bir sohadagi terminlar majmui",
+      "Umumxalq so‘zlari"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminlar nega ko‘p ma’noli bo‘lmasligi kerak?",
+    "options": [
+      "Talaffuz qiyin bo‘lgani uchun",
+      "Tushunmovchilik keltirib chiqaradi (Aniqlikni buzadi)",
+      "Chiroyli emas"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "O‘zbek tilida termin yasashda qaysi manba muhim?",
+    "options": [
+      "Folklor",
+      "Badiiy adabiyot",
+      "Milliy til imkoniyatlari (o‘z so‘z yasash qoidalari)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminlarning o‘zlashuvi nimaga bog‘liq?",
+    "options": ["Shevaga", "Ilm-fan taraqqiyotiga", "Iqlimga"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Termin yasashda xalqaro birliklardan foydalanishning sababi:",
+    "options": [
+      "Chiroyli bo‘lishi uchun",
+      "Umumiy tushunarlilik uchun (xalqaro aloqa)",
+      "Emotsional bo‘lishi uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Termin va umumxalq so‘zining farqi:",
+    "options": [
+      "Talaffuzida",
+      "Maqsadida",
+      "Ilmiy aniqligida (Bir ma’noliligida)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Terminlarning yasalishi",
+    "question": "Terminlarning yasalishini bilish nimaga xizmat qiladi?",
+    "options": [
+      "Faqat tarjimaga",
+      "Ilmiy nutqni to‘g‘ri tashkil etishga",
+      "Badiiy yozishga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnning eng kichik tarkibiy va mazmuniy birligi nima deb ataladi?",
+    "options": ["Gap", "Murakkab sintaktik butunlik (MSB)", "Abzas"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnning tugallangan fikrni ifodalash xususiyati qanday nomlanadi?",
+    "options": [
+      "Kogeziya",
+      "Koherentlik (Mazmuniy yaxlitlik)",
+      "Retrospeksiya"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnning tashqi (grammatik va leksik) bog‘liqligi nima deyiladi?",
+    "options": ["Koherentlik", "Kogeziya (Shakliy bog‘liqlik)", "Kontekst"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matndagi \"eskidan yangiga\" tamoyili asosida axborotning rivojlanishi nima deyiladi?",
+    "options": [
+      "Matnning lisoniy qurilishi",
+      "Aktual bo‘linish (Tema va rema)",
+      "Sintaktik aloqa"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnning mazmuniy (ichki) yaxlitligi va mantiqiy izchilligi qaysi atama bilan yuritiladi?",
+    "options": ["Kogeziya", "Koherentlik", "Prospeksiya"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Voqea-hodisalarning vaqtlar aro ketma-ketligini ifodalovchi matn turi qaysi?",
+    "options": [
+      "Tasviriy matn",
+      "Muhokama matni",
+      "Hikoya matni (Narrativ matn)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Predmet yoki shaxsning xususiyatlarini statik holatda ko‘rsatuvchi matn turi qaysi?",
+    "options": ["Tasviriy matn (Tavsif)", "Hikoya matni", "Muhokama matni"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Sabab-oqibat munosabatlariga asoslangan, biror fikrni isbotlashga xizmat qiladigan matn turi qaysi?",
+    "options": ["Tavsif", "Hikoya", "Muhokama (Arguementativ matn)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Rasmiy-idoraviy uslubga xos matnlarning asosiy xususiyati nima?",
+    "options": [
+      "Ekspressivlik va emotsionallik",
+      "Qoliplanganlik va aniqlik",
+      "Obrazlilik"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Ilmiy matnlarda qaysi xususiyat yetakchi hisoblanadi?",
+    "options": [
+      "Subyektivlik",
+      "Terminologik aniqlik va mantiqiylik",
+      "Dialektizmlarning qo‘llanishi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matndagi gaplarni bog‘lovchi \"lekin, biroq, vaholanki\" kabi vositalar qanday bog‘lanishni hosil qiladi?",
+    "options": [
+      "Leksik bog‘lanish",
+      "Morfologik bog‘lanish",
+      "Sintaktik (zanjirsimon) bog‘lanish"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Gaplar tarkibida bir xil grammatik shakllarning (masalan, bir xil zamon qo‘shimchalari) takrorlanishi qanday bog‘lanish sanaladi?",
+    "options": [
+      "Leksik kogeziya",
+      "Morfologik kogeziya",
+      "Sintaktik paralellik"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnda avval aytilgan fikrga ishora qilish nima deyiladi?",
+    "options": ["Anafora (oldindagi so‘zga ishora)", "Katafora", "Ellipsis"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnda keyin keladigan axborotga ishora qilish (masalan, \"Quyidagilarni aytish lozim:\") nima deyiladi?",
+    "options": ["Anafora", "Katafora (keyingi so‘zga ishora)", "Sinonimiya"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnda tushirib qoldirilgan, lekin mazmundan tushuniladigan birliklar qaysi hodisaga kiradi?",
+    "options": ["Substitutsiya", "Ellipsis (Tushirib qoldirish)", "Takror"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnning \"Antropotsentrik\" tabiati deganda nima tushuniladi?",
+    "options": [
+      "Matnning hayvonlar haqidaligi",
+      "Matn markazida inson (muallif va kitobxon) turishi",
+      "Matnning faqat qonunlardan iboratligi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Intertekstuallik nima?",
+    "options": [
+      "Matnning ichki qismlari bog‘liqligi",
+      "Bir matn tarkibida boshqa matnga ishora yoki parchaning mavjudligi",
+      "Matnning sarlavhasi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Badiiy matnning boshqa matnlardan asosiy farqi nimada?",
+    "options": [
+      "Faqat ma’lumot berishida",
+      "Estetik funksiya va obrazlilikda",
+      "Qat’iy qoliplarga egaligida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matndagi gaplarning zanjirsimon bog‘lanishi qanday sxemada bo‘ladi? (T-tema, R-rema)",
+    "options": [
+      "T_1 - R_1 → T_1 - R_2",
+      "T_1 - R_1 → R_1 (T_2) - R_2",
+      "T_1 - R_1 → T_2 - R_2"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matn lingvistikasi fani qachon mustaqil soha sifatida shakllandi?",
+    "options": ["XIX asr boshi", "XX asrning 60-70 yillari", "XVIII asr oxiri"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "\"Makrostruktura\" tushunchasi nimani anglatadi?",
+    "options": [
+      "Gapning ichki qurilishini",
+      "Matnning umumiy mavzu va mazmuniy rejasi (katta qismlari)",
+      "Faqat punktuatsiyani"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matndagi \"Modalallik\" nima?",
+    "options": [
+      "Gapning uzunligi",
+      "Muallifning bayon qilinayotgan voqelikka munosabati",
+      "Harflarning shakli"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Qaysi janr publitsistik matn turiga kirmaydi?",
+    "options": ["Feleton", "Ocherk", "Tezis (Ilmiy uslub janri)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Gipermatn (Hypertext) nima?",
+    "options": [
+      "Juda katta hajmdagi matn",
+      "Elektron muhitda boshqa manbalarga havolalar (link) orqali bog‘langan matn",
+      "Faqat she’riy matn"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnning vertikal kesimi deganda nima tushuniladi?",
+    "options": [
+      "Satrlar tartibi",
+      "Matn osti mazmuni (podtekst) va ramziy ma’nolar",
+      "Sahifa raqamlari"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnning propozitsiyasi nima?",
+    "options": [
+      "Matndagi so‘zlar soni",
+      "Matn asosida yotgan mantiqiy mulohaza, axborotning mantiqiy asosi",
+      "Matnning sarlavhasi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Diskurs va matn o‘rtasidagi farq nimada?",
+    "options": [
+      "Farqi yo‘q",
+      "Diskurs – bu jarayon (nutqiy vaziyatdagi matn), matn – bu natija",
+      "Matn og‘zaki bo‘ladi, diskurs yozma"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "\"Abzas\"ning matndagi asosiy vazifasi nima?",
+    "options": [
+      "Chiroyli ko‘rinish",
+      "Yangi mikromavzuni boshlash va mantiqiy tanaffus berish",
+      "Qog‘ozni tejash"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnning sarlavhasi qanday xizmatni bajaradi?",
+    "options": [
+      "Faqat kitobni bezaydi",
+      "Matn mazmunini prognozlashtiradi (nominativ va informativ)",
+      "Matnning oxirini bildiradi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Matn nazariyasi",
+    "question": "Matnning \"Retrospeksiya\" xususiyati nima?",
+    "options": [
+      "Kelajakka nazar solish",
+      "Matn davomida orqaga, avvalgi voqealarga qaytish",
+      "Matnni chet tiliga tarjima qilish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Adabiy tilning asosiy belgisi nima?",
+    "options": [
+      "Hududiy chegaralanganlik",
+      "Ma’lum me’yorlarga (normalarga) egalik",
+      "Faqat og‘zaki shaklda bo‘lishi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Adabiy tilning qaysi shakli birlamchi hisoblanadi?",
+    "options": ["Yozma shakli", "Og‘zaki shakli", "Dialektal shakli"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Nutqning aniqligi deganda nima tushuniladi?",
+    "options": [
+      "So‘zlarning chiroyli tanlanishi",
+      "Fikrning borliqqa va so‘z ma’nosiga mos kelishi",
+      "Gaplarning uzunligi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Orfoepik me’yor nimani tartibga soladi?",
+    "options": [
+      "So‘zlarning yozilishini",
+      "So‘zlarning talaffuz qilinishini",
+      "Tinish belgilarining qo‘yilishini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Leksik me’yorning buzilishi qaysi javobda ko‘rsatilgan?",
+    "options": [
+      "\"Keldi u\" (Inversiya)",
+      "\"Meni qalbim\" (Mening qalbim o‘rniga)",
+      "\"Uning qilig‘idan ensam qotdi\" (O‘rinsiz so‘z qo‘llash)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Nutq uslublari necha turga bo‘linadi?",
+    "options": [
+      "3 ta (og‘zaki, yozma, badiiy)",
+      "5 ta (so‘zlashuv, rasmiy, ilmiy, publitsistik, badiiy)",
+      "4 ta (ilmiy, badiiy, rasmiy, idoraviy)"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "\"Kanselyarizm\"lar (qoliplashgan birikmalar) qaysi uslubga xos?",
+    "options": ["Badiiy uslub", "Ilmiy uslub", "Rasmiy-idoraviy uslub"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Ilmiy uslubning asosiy xususiyatlari qaysilar?",
+    "options": [
+      "Obrazlilik, emotsionallik",
+      "Mantiqiylik, aniqlik, terminologik qat’iylik",
+      "Erkinlik, sheva so‘zlarining qo‘llanishi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Badiiy uslubning \"estetik funksiyasi\" nima?",
+    "options": [
+      "Ma’lumot yetkazish",
+      "Kitobxonga badiiy-zavq berish va olamni obrazlar orqali aks ettirish",
+      "Qonun-qoidalarni tushuntirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Publisistik uslubning bosh vazifasi nima?",
+    "options": [
+      "Tadqiqot o‘tkazish",
+      "Ommaga ta’sir ko‘rsatish, tashviqot va ma’lumot berish",
+      "Shartnoma tuzish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Qaysi uslubda \"men\" (1-shaxs) o‘rniga ko‘proq \"biz\" (kamtarinlik ma’nosida) qo‘llaniladi?",
+    "options": ["So‘zlashuv", "Ilmiy", "Badiiy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Inversiya (so‘z tartibining buzilishi) ko‘proq qaysi uslubda uchraydi?",
+    "options": ["Rasmiy", "Ilmiy", "Badiiy va so‘zlashuv"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "\"Ariza, bildirishnoma, farmoyish\" qaysi uslubning janrlari hisoblanadi?",
+    "options": ["Ilmiy", "Rasmiy-idoraviy", "Publisistik"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Metafora, metonimiya va sinekdoxa qaysi uslubning quroli hisoblanadi?",
+    "options": ["Ilmiy", "Badiiy", "Rasmiy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Terminoligik leksika qaysi uslubning leksik qatlamini tashkil etadi?",
+    "options": ["So‘zlashuv", "Ilmiy", "Badiiy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Funktsional stilistika nimani o‘rganadi?",
+    "options": [
+      "Tovushlarning o‘zgarishini",
+      "Til birliklarining nutq sharoitiga ko‘ra saralanishi va qo‘llanishini",
+      "So‘z turkumlarini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Qaysi uslubda modal so‘zlar, undovlar va to‘liqsiz gaplar faol qo‘llaniladi?",
+    "options": ["Ilmiy uslub", "So‘zlashuv uslubi", "Rasmiy uslub"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Publisistik uslubning qaysi janrida ham badiiy, ham publisistik xususiyatlar birlashadi?",
+    "options": ["Xabar", "Rezonans", "Feleton (yoki ocherk)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Ilmiy-ommabop uslub ilmiy uslubdan nima bilan farq qiladi?",
+    "options": [
+      "Hech qanday farqi yo‘q",
+      "Murakkab terminlarning sodda, tushunarli tilda bayon etilishi bilan",
+      "Faqat shevada yozilishi bilan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Rasmiy-idoraviy uslubning \"Diplomatik\" kichik uslubida nima muhim?",
+    "options": [
+      "Qo‘pollik",
+      "Xalqaro etiket va siyosiy muloyimlik me’yorlari",
+      "Erkin iboralar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Nutq madaniyati fani nimani o‘rgatadi?",
+    "options": [
+      "Faqat lug‘at boyligini",
+      "Adabiy til me’yorlariga amal qilish va nutqning kommunikativ sifatlarini",
+      "She’r yozishni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "\"Paronimlar\" bilan bog‘liq xato nutqning qaysi sifatining buzilishiga olib keladi?",
+    "options": ["Mantiqiylik", "Aniqlik (mazmuniy xiralik)", "Boylik"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Nutqning tozaligi nima?",
+    "options": [
+      "Imlo xatolarining yo‘qligi",
+      "Nutqda begona (varvarizm, jargon, parazit) so‘zlarning bo‘lmasligi",
+      "Ovozning balandligi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "\"Evfemizm\"lar nima uchun qo‘llaniladi?",
+    "options": [
+      "Nutqni murakkablashtirish uchun",
+      "Noqulay, qo‘pol so‘zlar o‘rniga yumshoqroq so‘z ishlatish (nutq etiketi) uchun",
+      "Ma’no berkitish uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Ritorika (notoqlik san’ati) qaysi uslub bilan uzviy bog‘liq?",
+    "options": ["Rasmiy", "Publisistik", "Ilmiy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Matnning stilistik tahriri deganda nima tushuniladi?",
+    "options": [
+      "Matnni qaytadan yozish",
+      "Matndagi uslubiy g‘alizlik va xatolarni tuzatish, uning ifodaliligini oshirish",
+      "Matnni qisqartirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Sinonimlarni to‘g‘ri tanlay olmaslik nutqning qaysi xususiyatiga zarar yetkazadi?",
+    "options": ["Qisqalik", "Ifodalilik va aniqlik", "Ovoz tembri"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Disfemizm nima?",
+    "options": [
+      "So‘zni chiroyli aytish",
+      "Ma’noni ataylab qo‘pol, salbiy bo‘yoqdor so‘z bilan ifodalash",
+      "Imlo xatosi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Qaysi javobda nutq boyligini oshiruvchi vositalar berilgan?",
+    "options": [
+      "Faqat bir xil so‘zlarni takrorlash",
+      "Sinonimlar, frazeologizmlar, ko‘chma ma’noli so‘zlardan foydalanish",
+      "Faqat bitta uslubda gapirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Adabiy til va Nutq madaniyati",
+    "question": "Adabiy nutqning shakllanishida qaysi omil yetakchi?",
+    "options": [
+      "Faqat tabiiy muhit",
+      "Jamiyatning madaniy darajasi, ta’lim va badiiy adabiyot",
+      "Faqat ijtimoiy tarmoqlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Ilmiy tadqiqotning eng birinchi va hal qiluvchi bosqichi nima?",
+    "options": [
+      "Ma’lumotlarni tahlil qilish",
+      "Muammoni qo‘yish va mavzuni tanlash",
+      "Xulosa yozish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Tadqiqotning \"Dolzarbligi\" (Актуальность) deganda nima tushuniladi?",
+    "options": [
+      "Mavzuning qiziqarliligi",
+      "Mavzuning bugungi kun ilmi va amaliyoti uchun zarurligi hamda yechilmaganligi",
+      "Mavzuning necha sahifadan iboratligi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Tadqiqotning \"Obyekti\" va \"Predmeti\" o‘rtasidagi farq nimada?",
+    "options": [
+      "Obyekt – tadqiqotchi, predmet – kitob",
+      "Obyekt – jarayonning umumiy chegarasi, predmet – obyektning o‘rganilishi lozim bo‘lgan aniq tomoni",
+      "Ular o‘zaro sinonim tushunchalar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Tadqiqot \"Gipotezasi\" (Faraziya) nima?",
+    "options": [
+      "Isbotlangan qonun",
+      "Tadqiqot natijasida tasdiqlanishi yoki inkor etilishi lozim bo‘lgan ilmiy taxmin",
+      "Adabiyotlar ro‘yxati"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Tadqiqot maqsadi va vazifalari o‘rtasidagi bog‘liqlik qanday?",
+    "options": [
+      "Maqsad – yakuniy natija, vazifalar – shu natijaga erishish uchun bajariladigan qadamlar",
+      "Vazifalar maqsadga nisbatan kengroq tushuncha",
+      "Ular o‘rtasida mantiqiy bog‘liqlik yo‘q"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Nazariy tadqiqot metodlariga qaysilar kiradi?",
+    "options": [
+      "Tajriba va kuzatish",
+      "Analiz, sintez, induksiya va deduksiya",
+      "So‘rovnoma va intervyu"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Induksiya\" metodi qanday tahlil usuli hisoblanadi?",
+    "options": [
+      "Umumiy qoidadan xususiy xulosaga kelish",
+      "Xususiy faktlardan umumiy xulosaga kelish",
+      "Hodisani qismlarga bo‘lib o‘rganish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Deduksiya\" metodi qanday tahlil usuli hisoblanadi?",
+    "options": [
+      "Xususiy faktlarni yig‘ish",
+      "Umumiy qonuniyatlardan aniq xulosalar chiqarish",
+      "Laboratoriya sinovi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Empirik tadqiqot darajasiga xos bo‘lgan metodni toping.",
+    "options": [
+      "Abstraktsiyalashtirish",
+      "Eksperiment (Tajriba)",
+      "Aksiomatik metod"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Ma’lumotlarni to‘plashda \"Kontent-analiz\" nima?",
+    "options": [
+      "Odamlar bilan muloqot qilish",
+      "Matnli va hujjatli manbalarni tizimli va miqdoriy tahlil qilish",
+      "Er osti boyliklarini o‘rganish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Bibliografik tahlil\" (Review of Literature) nima uchun o‘tkaziladi?",
+    "options": [
+      "Muallif ko‘p kitob o‘qiganini ko‘rsatish uchun",
+      "Mavzu bo‘yicha mavjud bilimlar darajasini aniqlash va \"bo‘shliqlar\"ni topish uchun",
+      "Sahifalar sonini ko‘paytirish uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Plagiat\" nima?",
+    "options": [
+      "Chet tilidan tarjima qilish",
+      "O‘zganing ilmiy ishi yoki fikrlarini manbasini ko‘rsatmasdan o‘zlashtirib olish",
+      "Bir necha kishi bo‘lib tadqiqot qilish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Iqtibos (Tsitata) keltirishning \"APA\" yoki \"Harvard\" uslublari nimani tartibga soladi?",
+    "options": [
+      "Faqat shrift o‘lchamini",
+      "Manbalarga havola berish va adabiyotlar ro‘yxatini shakllantirish standartini",
+      "Tadqiqotning rangli bo‘lishini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Gnoseologiya\" nima?",
+    "options": [
+      "Bilish nazariyasi (Ilmiy bilishning tabiati va chegaralari)",
+      "O‘simliklar haqidagi fan",
+      "Kosmosni o‘rganish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Birlamchi manba (Primary source) deganda nima tushuniladi?",
+    "options": [
+      "Darsliklar",
+      "Arxiv hujjatlari, statistik ma’lumotlar, tadqiqotchi o‘zi o‘tkazgan tajriba natijalari",
+      "Boshqalarning maqolalari haqidagi sharhlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Validlik\" (Validity) tushunchasi tadqiqotda nimani anglatadi?",
+    "options": [
+      "Metodning o‘rganilishi kerak bo‘lgan hodisaga mosligi va natijaning haqiqiyligi",
+      "Matnning chiroyliligi",
+      "Tadqiqotchining yoshi"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Reliabillik\" (Reliability) deganda nima tushuniladi?",
+    "options": [
+      "Tadqiqotning arzonligi",
+      "Tadqiqot natijalarining barqarorligi va qayta o‘tkazilganda ham bir xil chiqishi",
+      "Faqat xorijiy manbalardan foydalanish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Tadqiqotning \"Ilmiy yangiligi\" deganda nima tushuniladi?",
+    "options": [
+      "Mavjud ma’lumotlarni qayta yozish",
+      "Ilm-fanga qo‘shilgan yangi fakt, metod yoki nazariya",
+      "Yangi kompyuterda yozilgan ish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Miqdoriy (Quantitative) tadqiqotning asosiy vositasi nima?",
+    "options": [
+      "Chuqur psixologik suhbat",
+      "Statistik ma’lumotlar va raqamli ko‘rsatkichlar",
+      "Shaxsiy kundaliklar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Sifat (Qualitative) tadqiqotining maqsadi nima?",
+    "options": [
+      "Faqat foizlarni hisoblash",
+      "Hodisaning mohiyatini, sabablarini va insoniy tajribalarni chuqur tushunish",
+      "Jadvallar sonini oshirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Annotatsiya\" (Abstract) tadqiqotning qaysi qismida joylashadi va vazifasi nima?",
+    "options": [
+      "Oxirida joylashadi, foydalanilgan adabiyotlarni ko‘rsatadi",
+      "Boshida joylashadi, ishning mazmuni va natijalarini qisqa bayon qiladi",
+      "O‘rtada joylashadi, jadvallarni tushuntiradi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Tadqiqotning \"Metodologiyasi\" qismida nima yoziladi?",
+    "options": [
+      "Tadqiqot qanday usullar va tartibda olib borilgani",
+      "Faqat muallifning tarjimai holi",
+      "Minnatdorchilik so‘zlari"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Aprobatsiya\" nima?",
+    "options": [
+      "Ishni muqovalash",
+      "Tadqiqot natijalarini ilmiy konferensiya va muhokamalarda sinovdan o‘tkazish",
+      "Kitobni sotish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Peer-review\" (Taqrizdan o‘tkazish) jarayoni nima uchun kerak?",
+    "options": [
+      "Maqolaning dizaynini tekshirish uchun",
+      "Ilmiy ishning sifatini va ishonchliligini mustaqil ekspertlar tomonidan baholash uchun",
+      "Pul to‘lash uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Korrelyatsiya\" nima?",
+    "options": [
+      "Ikki yoki undan ortiq o‘zgaruvchilar o‘rtasidagi bog‘liqlik",
+      "Imlo xatolarini tuzatish",
+      "Rasm chizish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Tadqiqot natijalarini vizuallashtirishda nimalardan foydalaniladi?",
+    "options": [
+      "Faqat matndan",
+      "Diagramma, gistogramma va infografikalardan",
+      "Faqat audio yozuvlardan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Eksperimental guruh\" va \"Nazorat guruhi\" qayerda ishlatiladi?",
+    "options": [
+      "Adabiy tahlilda",
+      "Pedagogik yoki psixologik eksperimentlarda natijalarni solishtirish uchun",
+      "Faqat arxiv ishlarida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Ilmiy ishning \"Xulosa\" (Conclusion) qismida nima bo‘lmasligi kerak?",
+    "options": [
+      "Asosiy natijalar",
+      "Tadqiqot davomida muhokama qilinmagan butunlay yangi ma’lumotlar",
+      "Kelajakdagi tadqiqotlar uchun tavsiyalar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "\"Impact Factor\" (Imfakt-faktor) nimani bildiradi?",
+    "options": [
+      "Kitobning og‘irligini",
+      "Ilmiy jurnalning nufuzi va undagi maqolalarga berilgan iqtiboslar ko‘rsatkichi",
+      "Tadqiqotchining yoshini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Tadqiqot metodologiyasi",
+    "question": "Ilmiy tadqiqotning yakuniy hujjati (universitet darajasida) nima bo‘lishi mumkin?",
+    "options": [
+      "Gazetadagi kichik xabar",
+      "Bitiruv malakaviy ishi, magistrlik yoki doktorlik dissertatsiyasi",
+      "Shaxsiy bloknotdagi qaydlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot",
+    "question": "Ilmiy maqola yoki ishning xalqaro standarti bo‘lgan \"IMRaD\" qisqartmasi nimani anglatadi?",
+    "options": [
+      "A) Introduction, Main body, Results, Done",
+      "B) Introduction, Methods, Results, and Discussion (Kirish, Metodlar, Natijalar va Muhokama)",
+      "C) Idea, Method, Review, Data",
+      "D) Important, Materials, Reading, Design"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot",
+    "question": "\"Annotatsiya\" (Abstract) ilmiy ishning qaysi qismida joylashadi va uning hajmi qancha bo‘ladi?",
+    "options": [
+      "A) Ishning oxirida, 5 sahifa",
+      "B) Ishning boshida (sarlavhadan so‘ng), odatda 150-250 so‘z atrofida",
+      "C) Har bir bobning boshida",
+      "D) Faqat mundarijada"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot",
+    "question": "\"Kirish\" (Introduction) qismining asosiy vazifasi nima?",
+    "options": [
+      "A) Natijalarni tahlil qilish",
+      "B) Mavzuning dolzarbligini asoslash, muammoni qo‘yish va tadqiqot maqsadini e’lon qilish",
+      "C) Foydalanilgan adabiyotlarni sanab o‘tish",
+      "D) Muallifning tarjimai holini yozish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot",
+    "question": "Tadqiqotda olingan aniq faktlar, raqamlar va jadvallar qaysi bo‘limda keltiriladi?",
+    "options": [
+      "A) Kirish",
+      "B) Adabiyotlar sharhi",
+      "C) Natijalar (Results)",
+      "D) Xulosa"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot",
+    "question": "\"Muhokama\" (Discussion) bo‘limi \"Natijalar\" bo‘limidan nima bilan farq qiladi?",
+    "options": [
+      "A) Farqi yo‘q",
+      "B) Natijalarda faqat quruq faktlar beriladi, Muhokamada esa bu faktlarning ma’nosi, ahamiyati va boshqa olimlarning ishlari bilan solishtirmasi yoziladi",
+      "C) Muhokama bo‘limi qisqaroq bo‘ladi",
+      "D) Natijalar bo‘limida faqat rasmlar bo‘ladi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot",
+    "question": "Ilmiy matn yozishda qaysi uslubiy talab eng muhim hisoblanadi?",
+    "options": [
+      "A) O‘ta murakkab va tushunarsiz so‘zlarni qo‘llash",
+      "B) Obektivlik, aniqlik, mantiqiylik va qisqalik",
+      "C) Emotsional bo‘yoqdorlik va hazil-mutoyiba",
+      "D) Faqat ko‘chirma gaplardan foydalanish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot",
+    "question": "\"Hedging\" (Ehtiyotkorlik) tushunchasi ilmiy yozishda nimani anglatadi?",
+    "options": [
+      "A) Fikrni qat’iy va inkor etib bo‘lmas haqiqat sifatida emas, balki \"ehtimol\", \"taxminan\", \"ko‘rsatishi mumkin\" kabi so‘zlar bilan ehtiyotkorlik bilan ifodalash",
+      "B) Matnni yashirish",
+      "C) So‘zlarni qisqartirib yozish",
+      "D) Chetdan ko‘chirib olish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot",
+    "question": "Ilmiy ishda birinchi shaxs (\"Men tadqiq qildim\") o‘rniga qanday shakl afzal ko‘riladi?",
+    "options": [
+      "A) \"Sen\" shakli",
+      "B) \"Biz\" shakli (mualliflik kamtarligi) yoki majhul nisbat (\"Tadqiq qilindi\", \"Aniqlanadiki\")",
+      "C) \"Ular\" shakli",
+      "D) Umuman fe’l ishlatmaslik"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot",
+    "question": "\"Kalit so‘zlar\" (Keywords) nima uchun kerak?",
+    "options": [
+      "A) Maqolani bezash uchun",
+      "B) Qidiruv tizimlarida maqolani oson topish va mavzu mohiyatini 5-7 ta so‘zda ifodalash uchun",
+      "C) Matn hajmini ko‘paytirish uchun",
+      "D) Faqat sarlavhani takrorlash uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot",
+    "question": "Ilmiy matn sarlavhasi (Title) qanday bo‘lishi kerak?",
+    "options": [
+      "A) Iloji boricha uzun va mavhum",
+      "B) Qisqa, aniq, informativ va ishning mazmunini to‘liq ochib beradigan",
+      "C) Savol shaklida bo‘lishi shart",
+      "D) Badiiy iboralar bilan to‘ldirilgan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Manbalar va Etika)",
+    "question": "\"Parafrazlash\" (Paraphrasing) nima?",
+    "options": [
+      "A) Boshqa muallifning fikrini o‘z so‘zlaringiz bilan, ma’nosini saqlagan holda qayta bayon qilish",
+      "B) Matnni so‘zma-so‘z ko‘chirish",
+      "C) Matnni boshqa tilga tarjima qilish",
+      "D) Matnni o‘chirib tashlash"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Manbalar va Etika)",
+    "question": "To‘g‘ridan-to‘g‘ri iqtibos (Direct quote) qachon ishlatiladi?",
+    "options": [
+      "A) Muallif fikrini o‘zgartirish mumkin bo‘lmaganda yoki ta’rif juda aniq berilganda (qo‘shtirnoq ichida)",
+      "B) Har doim, butun ish iqtibosdan iborat bo‘lishi kerak",
+      "C) Fikrni yashirish uchun",
+      "D) So‘z boyligi yetmaganda"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Manbalar va Etika)",
+    "question": "Agar siz matnda birovning g‘oyasidan foydalansangiz-u, lekin manbani ko‘rsatmasangiz, bu nima deb ataladi?",
+    "options": [
+      "A) Hamkorlik",
+      "B) Kompilyatsiya",
+      "C) Plagiat (Ko‘chirmakashlik)",
+      "D) Kreativlik"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Manbalar va Etika)",
+    "question": "Adabiyotlar sharhi (Literature Review) yozishdan maqsad nima?",
+    "options": [
+      "A) Kitoblarni reklama qilish",
+      "B) Tanlangan mavzu bo‘yicha shu paytgacha nimalar qilinganini ko‘rsatish va o‘z tadqiqotingiz uchun nazariy poydevor yaratish",
+      "C) Matnni uzaytirish",
+      "D) Mualliflarni tanqid qilish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Manbalar va Etika)",
+    "question": "Ishonchli ilmiy manba hisoblanmaydigan qatorni toping.",
+    "options": [
+      "A) Resenziyalanadigan (taqrizdan o‘tgan) ilmiy jurnallar",
+      "B) Monografiyalar va darsliklar",
+      "C) Vikipediya, shaxsiy bloglar va anonim saytlar",
+      "D) Rasmiy statistika qo‘mitalari hisobotlari"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Yozish jarayoni)",
+    "question": "Ilmiy ish yozishni nimadan boshlash tavsiya etiladi?",
+    "options": [
+      "A) Kirish qismini yozishdan",
+      "B) Reja (Outline) tuzish va materiallarni tizimlashtirishdan",
+      "C) Xulosa yozishdan",
+      "D) Sarlavha tanlashdan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Yozish jarayoni)",
+    "question": "\"Qoralama\" (Draft) nima?",
+    "options": [
+      "A) Ishning yakuniy varianti",
+      "B) Ishning dastlabki, hali tahrir qilinmagan va o‘zgartirilishi mumkin bo‘lgan xomaki nusxasi",
+      "C) Faqat reja",
+      "D) Adabiyotlar ro‘yxati"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Yozish jarayoni)",
+    "question": "Matnning \"Koherentligi\" (Coherence) deganda nima tushuniladi?",
+    "options": [
+      "A) Grammatik xatolar yo‘qligi",
+      "B) Fikrlarning mantiqiy oqimi va paragraflar o‘rtasidagi mazmuniy bog‘liqlik",
+      "C) Shriftning o‘lchami",
+      "D) Qog‘oz sifati"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Yozish jarayoni)",
+    "question": "Ilmiy matnda paragraflar (abzaslar) qanday tuzilishi kerak?",
+    "options": [
+      "A) Har bir paragraf bitta asosiy g‘oyani (topic sentence) ochib berishi kerak",
+      "B) Paragraflar iloji boricha uzun bo‘lishi kerak",
+      "C) Paragraflar orasida bog‘liqlik bo‘lishi shart emas",
+      "D) Bir paragrafda turli mavzular aralashib ketishi kerak"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Yozish jarayoni)",
+    "question": "Tahrir (Editing) jarayonida nimalarga e’tibor beriladi?",
+    "options": [
+      "A) Faqat imlo xatolariga",
+      "B) Matn tuzilishi, uslubi, aniqligi, grammatikasi va tinish belgilariga",
+      "C) Faqat sarlavhaga",
+      "D) Faqat foydalanilgan adabiyotlar soniga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Rasmiylashtirish)",
+    "question": "\"Times New Roman, 14, 1.5 interval\" talabi nimaga tegishli?",
+    "options": [
+      "A) Matn mazmuniga",
+      "B) Ilmiy ishning texnik rasmiylashtirilishiga (Formatting)",
+      "C) Adabiyotlar ro‘yxatiga",
+      "D) Muallif huquqiga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Rasmiylashtirish)",
+    "question": "Ilovalar (Appendices) bo‘limiga nimalar kiritiladi?",
+    "options": [
+      "A) Asosiy matnni \"og‘irlashtiradigan\" katta jadvallar, so‘rovnoma namunalari, qo‘shimcha rasmlar",
+      "B) Eng muhim natijalar",
+      "C) Kirish qismi",
+      "D) Qisqartmalar ro‘yxati"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Rasmiylashtirish)",
+    "question": "Bibliografik ro‘yxatda manbalar odatda qanday tartibda joylashtiriladi?",
+    "options": [
+      "A) Mualliflarning familiyasi bo‘yicha alifbo tartibida",
+      "B) Kitobning qalinligi bo‘yicha",
+      "C) Nashr etilgan yili bo‘yicha (teskari tartibda)",
+      "D) Tasodifiy tartibda"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Rasmiylashtirish)",
+    "question": "Kurs ishi yoki BMI da \"Xulosa\" qismi qanday yozilishi kerak?",
+    "options": [
+      "A) Kirish qismini so‘zma-so‘z takrorlash kerak",
+      "B) Ishdagi asosiy natijalarni umumlashtirib, yakuniy hukm va takliflar berilishi kerak",
+      "C) Yangi, matnda yo‘q ma’lumotlar qo‘shilishi kerak",
+      "D) Faqat minnatdorchilik bildirilishi kerak"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Rasmiylashtirish)",
+    "question": "Qaysi so‘zlar ilmiy matnda \"bog‘lovchi vosita\" (Linking words) hisoblanadi?",
+    "options": [
+      "A) \"Menimcha\", \"Balki\"",
+      "B) \"Shuningdek\", \"Binobarin\", \"Xulosa qilib aytganda\", \"Biroq\"",
+      "C) \"Salom\", \"Xayr\"",
+      "D) Ot, sifat, son"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Rasmiylashtirish)",
+    "question": "Jadval va rasmlarga qo‘yiladigan asosiy talab nima?",
+    "options": [
+      "A) Ular faqat rangli bo‘lishi kerak",
+      "B) Har birining raqami, nomi bo‘lishi va matnda ularga havola berilishi kerak",
+      "C) Ular matndan kattaroq bo‘lishi kerak",
+      "D) Ular matn bilan bog‘lanmasligi kerak"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Rasmiylashtirish)",
+    "question": "\"Rubrika\" (Rubric) o‘qituvchi tomonidan nima uchun ishlatiladi?",
+    "options": [
+      "A) Talabani jazolash uchun",
+      "B) Yozma ishni baholash mezonlarini aniq ko‘rsatish uchun",
+      "C) Darsni o‘tish uchun",
+      "D) Talabalar ro‘yxatini tuzish uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Rasmiylashtirish)",
+    "question": "Ilmiy ishda qisqartmalar (Abbreviaturalar) birinchi marta qanday qo‘llaniladi?",
+    "options": [
+      "A) To‘g‘ridan-to‘g‘ri qisqartma yoziladi (masalan, BMT)",
+      "B) Avval to‘liq nomi yozilib, qavs ichida qisqartmasi keltiriladi (Birlashgan Millatlar Tashkiloti (BMT))",
+      "C) Izohsiz ishlatiladi",
+      "D) Faqat ingliz tilida yoziladi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Rasmiylashtirish)",
+    "question": "Ilmiy ishning \"Metodologiya\" qismi kimga mo‘ljallangan?",
+    "options": [
+      "A) Faqat talabaning o‘ziga",
+      "B) Tadqiqotni qayta o‘tkazmoqchi yoki natijalarni tekshirmoqchi bo‘lgan boshqa olimlarga",
+      "C) Oddiy gazeta o‘quvchisiga",
+      "D) Kutubxonachiga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Dastlabki Ilmiy Tadqiqot (Rasmiylashtirish)",
+    "question": "Yaxshi yozilgan ilmiy ishning belgisi nima?",
+    "options": [
+      "A) O‘quvchi muallif nima demoqchi ekanligini qiynalmasdan tushunishi va ishonishi",
+      "B) O‘quvchining zerikib qolishi",
+      "C) Matnning juda uzun bo‘lishi",
+      "D) Ko‘p chet tili so‘zlarining"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "Rasmiy-idoraviy uslubning asosiy kommunikativ vazifasi nima?",
+    "options": [
+      "A) Estetik zavq berish va his-tuyg‘ularni uyg‘otish",
+      "B) Davlat va fuqarolar, tashkilotlar o‘rtasidagi huquqiy munosabatlarni tartibga solish va axborot almashish",
+      "C) Ilmiy yangiliklarni isbotlash",
+      "D) Kundalik voqealarni hikoya qilish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "Rasmiy uslubning eng yetakchi (dominant) belgisi qaysi?",
+    "options": [
+      "A) Obrazlilik va ko‘p ma’nolilik",
+      "B) Qoliplilik (standartlik) va aniqlik",
+      "C) Emotsionallik va ekspressivlik",
+      "D) Sheva so‘zlarining erkin qo‘llanishi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "Rasmiy-idoraviy uslub qaysi sohalarni qamrab oladi?",
+    "options": [
+      "A) Faqat badiiy adabiyot va san’atni",
+      "B) Qonunchilik, diplomatiya va ma’muriy-boshqaruv (ish yuritish) sohalarini",
+      "C) Faqat maktab ta’limini",
+      "D) Ommaviy axborot vositalarini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "Ushbu uslubda so‘zlar qaysi ma’noda ishlatilishi shart?",
+    "options": [
+      "A) Ko‘chma ma’noda",
+      "B) Faqat o‘z ma’nosida (denotativ), bir ma’noli va aniq",
+      "C) Kinoya ma’nosida",
+      "D) Mubolag‘a shaklida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "Rasmiy uslubning \"konservativligi\" nimada namoyon bo‘ladi?",
+    "options": [
+      "A) Yangi so‘zlarni tez qabul qilishi bilan",
+      "B) Tarixiy shakllangan qoliplar, arxaik so‘zlar va qurilmalarni uzoq vaqt saqlab qolishi bilan",
+      "C) O‘zgaruvchanligi bilan",
+      "D) Faqat og‘zaki shaklda ekanligi bilan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "\"Kanselyarizm\"lar nima?",
+    "options": [
+      "A) Ish yuritishda ishlatiladigan idora anjomlari",
+      "B) Rasmiy uslubga xos bo‘lgan, qoliplashgan so‘z birikmalari va iboralar (masalan: \"chora ko‘rilsin\", \"inobatga olinsin\")",
+      "C) She’riy qofiyalar",
+      "D) Xorijiy so‘zlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "Rasmiy matnlarda qaysi olmoshlar kamroq yoki umuman ishlatilmaydi (arizadan tashqari)?",
+    "options": [
+      "A) \"Ushbu\", \"mazkur\"",
+      "B) \"Men\", \"sen\" (shaxsiy his-tuyg‘uni ifodalovchi shakllar)",
+      "C) \"Barcha\", \"hamma\"",
+      "D) \"O‘z\""
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "Rasmiy uslubda gaplar ko‘proq qanday tuzilishga ega bo‘ladi?",
+    "options": [
+      "A) Qisqa, sodda va undov gaplar",
+      "B) Murakkab, uzun, uyushiq bo‘lakli va ko‘makchili qurilmalar bilan kengaygan gaplar",
+      "C) Savol gaplar",
+      "D) Dialogik nutq"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "\"Mazkur, ushbu, yuqoridagi\" kabi so‘zlar rasmiy matnda qanday vazifani bajaradi?",
+    "options": [
+      "A) Matnni bezaydi",
+      "B) Anqlik kiritish va ko‘rsatish (ishora) vazifasini bajaradi",
+      "C) Matnni uzaytiradi",
+      "D) Hech qanday vazifasi yo‘q"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "Rasmiy hujjatlarda fe’llar ko‘proq qaysi shaklda keladi?",
+    "options": [
+      "A) Shart maylida",
+      "B) Majhul nisbatda va buyruq maylida (masalan: \"yuklatilsin\", \"tasdiqlansin\")",
+      "C) O‘tgan zamon hikoya shaklida",
+      "D) Birgalik nisbatida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "\"Tomonidan\", \"sababli\", \"yuzasidan\", \"muvofiq\" kabi so‘zlar grammatik jihatdan nima hisoblanadi va qaysi uslubga xos?",
+    "options": [
+      "A) Bog‘lovchilar – so‘zlashuv uslubi",
+      "B) Vazifadosh ko‘makchilar – rasmiy-idoraviy uslub",
+      "C) Yuklamalar – badiiy uslub",
+      "D) Undovlar – publitsistik uslub"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "Rasmiy uslubda sinonimlardan foydalanishga qanday qaraladi?",
+    "options": [
+      "A) Rag‘batlantiriladi, chunki u nutqni boyitadi",
+      "B) Yo‘l qo‘yilmaydi (yoki cheklanadi), chunki u ma’noning xiralashishiga olib kelishi mumkin",
+      "C) Faqat she’rlarda mumkin",
+      "D) Ixtiyoriy"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub",
+    "question": "Rasmiy uslub ichki ko‘rinishiga ko‘ra qanday turlarga bo‘linadi?",
+    "options": [
+      "A) Qonunchilik, diplomatik, ma’muriy-idoraviy",
+      "B) Roman, qissa, hikoya",
+      "C) Maqola, reportaj, ocherk",
+      "D) Monografiya, tezis, darslik"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Hujjat turlari)",
+    "question": "Muayyan muassasa rahbariga biror iltimos yoki taklif bilan yoziladigan hujjat qaysi?",
+    "options": ["A) Tilxat", "B) Ariza", "C) Dalolatnoma", "D) Ishonchnoma"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Hujjat turlari)",
+    "question": "\"Bayonnoma\" (Protokol) nima uchun yoziladi?",
+    "options": [
+      "A) Majlis, yig‘ilish jarayoni va unda qabul qilingan qarorlarni qayd etish uchun",
+      "B) O‘z tarjimai holini yozish uchun",
+      "C) Pul olganligini tasdiqlash uchun",
+      "D) Buyruq berish uchun"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Hujjat turlari)",
+    "question": "Biror shaxsga uning nomidan ish yuritish huquqini beruvchi hujjat nima deyiladi?",
+    "options": [
+      "A) Tavsifnoma",
+      "B) Ishonchnoma",
+      "C) Ma’lumotnoma",
+      "D) Hisobot"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Hujjat turlari)",
+    "question": "\"Tarjimai hol\" hujjati qanday tartibda yoziladi?",
+    "options": [
+      "A) Erkin uslubda, xohlagan voqeadan boshlab",
+      "B) Xronologik tartibda (tug‘ilgandan to hozirgi vaqtgacha)",
+      "C) Faqat yutuqlar yoziladi",
+      "D) Savol-javob tarzida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Hujjat turlari)",
+    "question": "Qimmatbaho buyum yoki pul olinganligini tasdiqlovchi hujjat qaysi?",
+    "options": [
+      "A) Tilxat",
+      "B) Tushuntirish xati",
+      "C) Kafolat xati",
+      "D) Farmoyish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Hujjat turlari)",
+    "question": "Diplomatik uslubga xos hujjat turini toping.",
+    "options": [
+      "A) Memorandum (Nota)",
+      "B) Buyruq",
+      "C) Tushuntirish xati",
+      "D) Dalolatnoma"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Hujjat turlari)",
+    "question": "Qaysi hujjatda voqea-hodisa guvohlar ishtirokida tasdiqlanadi?",
+    "options": [
+      "A) Ariza",
+      "B) Dalolatnoma (Akt)",
+      "C) Ishonchnoma",
+      "D) Tarjimai hol"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Rasmiylashtirish)",
+    "question": "\"Rekvizit\" nima?",
+    "options": [
+      "A) Hujjatning qog‘oz turi",
+      "B) Hujjatning yuridik kuchga ega bo‘lishi uchun zarur bo‘lgan majburiy qismlari (sana, imzo, muhr va h.k.)",
+      "C) Hujjatdagi xatolar",
+      "D) Hujjatning nusxasi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Rasmiylashtirish)",
+    "question": "Arizaning \"Adresat\" (kimga qaratilganligi) qismi varaqning qayerida joylashadi?",
+    "options": [
+      "A) Chap tomon yuqori burchakda",
+      "B) O‘ng tomon yuqori burchakda",
+      "C) O‘rtada",
+      "D) Pastda"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Rasmiylashtirish)",
+    "question": "Hujjatda sana (date) qanday yozilishi maqsadga muvofiq?",
+    "options": [
+      "A) Faqat so‘z bilan (birinchi sentyabr)",
+      "B) Arab raqamlari va so‘z aralash yoki to‘liq raqamlar bilan (01.09.2023 yoki 2023-yil 1-sentyabr)",
+      "C) Rim raqamlari bilan",
+      "D) Taxminiy vaqt bilan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Rasmiylashtirish)",
+    "question": "\"Imzo\" rekviziti odatda qayerda joylashadi?",
+    "options": [
+      "A) Matnning boshida",
+      "B) Matn tugagach, pastki o‘ng tomonda (lavozim chapda, imzo o‘ngda)",
+      "C) Varaqning orqa tomonida",
+      "D) Sarlavhaning ichida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Rasmiylashtirish)",
+    "question": "Hujjatga qo‘yiladigan \"Rezolutsiya\" (Darkenor) nima?",
+    "options": [
+      "A) Rahbarning hujjat yuzasidan yozgan ko‘rsatmasi yoki qarori",
+      "B) Kotibaning imzosi",
+      "C) Hujjatning ro‘yxatga olish raqami",
+      "D) Hujjatning sarlavhasi"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Sintaksis)",
+    "question": "Rasmiy uslubda gap bo‘laklari tartibi (so‘z tartibi) qanday bo‘lishi kerak?",
+    "options": [
+      "A) Erkin, o‘zgaruvchan",
+      "B) Qat’iy grammatik tartibda (Ega - Ikkinchi darajali bo‘laklar - Kesim)",
+      "C) She’riy tartibda",
+      "D) Inversiya qo‘llanilgan holda"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Sintaksis)",
+    "question": "Qonun matnlarida \"Har kim\", \"Fuqaro\", \"Shaxs\" kabi so‘zlarning ishlatilishi nimani bildiradi?",
+    "options": [
+      "A) Aniq bir odamni",
+      "B) Huquqiy subyektning umumlashgan obrazini",
+      "C) Muallifning do‘stlarini",
+      "D) Chet elliklarni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Sintaksis)",
+    "question": "Rasmiy matnni tahrir qilishda nimaga e’tibor beriladi?",
+    "options": [
+      "A) Badiiy bo‘yoqdorlikka",
+      "B) Mantiqiy izchillik, imlo, punktuatsiya va rasmiy qoliplarning to‘g‘ri qo‘llanishiga",
+      "C) Matnning qanchalik kulgili ekanligiga",
+      "D) Qog‘ozning rangiga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Leksika)",
+    "question": "Qaysi qatorda rasmiy uslubga xos \"shtamp\" (qolip) berilgan?",
+    "options": [
+      "A) \"Oltin kuz fasli kirib keldi\"",
+      "B) \"Yuqoridagilarni inobatga olib, buyuraman\"",
+      "C) \"Yuragim gup-gup urardi\"",
+      "D) \"Qushlar sayrayapti\""
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Rasmiy-idoraviy Uslub (Leksika)",
+    "question": "Rasmiy-idoraviy uslubning \"Obyektivlik\" tamoyili nimani talab qiladi?",
+    "options": [
+      "A) Shaxsiy munosabat va his-tuyg‘ularni aralashtirmaslikni, faqat faktlarga asoslanishni",
+      "B) O‘z fikrini bo‘rttirib ko‘rsatishni",
+      "C) Birovni maqtashni",
+      "D) Taxminlarga asoslanishni"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor",
+    "question": "\"Adabiy me’yor\" (Norma) tushunchasining eng aniq ta’rifi qaysi?",
+    "options": [
+      "A) Faqat yozuvchilar tomonidan ishlatiladigan so‘zlar yig‘indisi",
+      "B) Til birliklarining (tovush, so‘z, qo‘shimcha, gap) ma’lum bir tarixiy davrda jamoatchilik tomonidan tanlangan va qonunlashtirilgan namunaviy ko‘rinishi",
+      "C) Barcha sheva vakillari uchun tushunarli bo‘lgan so‘zlar",
+      "D) Lug‘atdagi barcha so‘zlarning ishlatilishi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor",
+    "question": "Adabiy tilning sheva va jargonlardan asosiy farqi nimada?",
+    "options": [
+      "A) Uning qat’iy me’yorlashtirilganligi va kodifikatsiyalanganligida",
+      "B) Faqat ziyolilar gapirishida",
+      "C) Uning qadimiy ekanligida",
+      "D) So‘zlarining kamligida"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor",
+    "question": "Kodifikatsiya nima?",
+    "options": [
+      "A) Nutqni buzib ko‘rsatish",
+      "B) Adabiy me’yorlarning lug‘atlar, grammatikalar va qo‘llanmalarda rasman qayd etilishi va qonunlashtirilishi",
+      "C) Chet tilidan so‘z o‘zlashtirish",
+      "D) Sheva so‘zlarini adabiy tilga kiritish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor",
+    "question": "Adabiy me’yorning \"nisbiy barqarorligi\" deganda nima tushuniladi?",
+    "options": [
+      "A) Me’yor hech qachon o‘zgarmaydi",
+      "B) Me’yor juda tez o‘zgaradi",
+      "C) Me’yor ma’lum davr davomida saqlanib turadi, ammo jamiyat rivoji bilan sekin-asta o‘zgarib boradi",
+      "D) Me’yor faqat og‘zaki nutqda o‘zgaradi"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor",
+    "question": "Nutq madaniyatining bosh mezoni (\"Birinchi darajali sharti\") nima?",
+    "options": [
+      "A) Nutqning boyligi",
+      "B) Nutqning to‘g‘riligi (adabiy me’yorga amal qilish)",
+      "C) Nutqning ifodaliligi",
+      "D) Nutqning mantiqiyligi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Orfoepik)",
+    "question": "Orfoepik me’yor nimani tartibga soladi?",
+    "options": [
+      "A) So‘zlarning to‘g‘ri yozilishini",
+      "B) So‘z va qo‘shimchalarning adabiy tilda to‘g‘ri talaffuz qilinishini",
+      "C) Tinish belgilarining qo‘yilishini",
+      "D) So‘z yasash qoidalarini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Leksik)",
+    "question": "\"Leksik me’yorning buzilishi\" qaysi javobda aks etgan?",
+    "options": [
+      "A) \"U chiroyli yozdi\"",
+      "B) \"Men bugun avtobusda keldim\"",
+      "C) \"Uning qilig‘idan mening ensam qotdi\" (Frazeologizmni noto‘g‘ri qo‘llash: \"Ensam qotdi\" o‘rniga \"hafsalam pir bo‘ldi\" yoki \"g‘ashim keldi\" bo‘lishi kerak edi. Izoh: \"Ensa qotmoq\" - hayron qolmoq, ajablanmoq)",
+      "D) \"Talabalar darsga kirishdi\""
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Morfologik)",
+    "question": "Qaysi holatda morfologik (grammatik) me’yor buzilgan?",
+    "options": [
+      "A) Kitob o‘qildi",
+      "B) Dala tomonga ketdi",
+      "C) \"Bizlar kelayapmiz\" (Ko‘plik qo‘shimchasining ortiqcha qo‘llanishi: \"Biz kelyapmiz\" yetarli)",
+      "D) Ukamga aytdim"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Sintaktik)",
+    "question": "Sintaktik me’yor buzilishiga nima misol bo‘la oladi?",
+    "options": [
+      "A) Gap bo‘laklarining o‘rin almashishi (inversiya) uslubiy maqsadisiz qo‘llanilganda",
+      "B) So‘zlarning to‘g‘ri talaffuz qilinishi",
+      "C) Sinonimlarning o‘rinli ishlatilishi",
+      "D) Murakkab qo‘shma gap tuzish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Orfoepik)",
+    "question": "Urg‘uni noto‘g‘ri qo‘yish qaysi me’yorning buzilishi hisoblanadi?",
+    "options": [
+      "A) Leksik",
+      "B) Orfoepik (Talaffuz)",
+      "C) Sintaktik",
+      "D) Punktuatsion"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Leksik Xato)",
+    "question": "Pleonazm nima?",
+    "options": [
+      "A) So‘zning yetishmasligi",
+      "B) Ma’nodosh so‘zlarning birikib kelib, mantiqiy ortiqchalikni hosil qilishi (Masalan: \"Tushib pastga tushdi\")",
+      "C) So‘zlarning qisqartirilishi",
+      "D) Qarama-qarshi ma’noli so‘zlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Leksik Xato)",
+    "question": "Tavtologiya deb nimaga aytiladi?",
+    "options": [
+      "A) Bir xil o‘zakli so‘zlarning bir gapda asossiz takrorlanishi (Masalan: \"Yozuvchi o‘z yozgan asarida yozadi\")",
+      "B) Chet so‘zlarni ishlatish",
+      "C) Maqollarni ishlatish",
+      "D) Iboralarni ishlatish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Leksik Xato)",
+    "question": "\"Paronimlar\" bilan bog‘liq xatolik qaysi qatorda berilgan?",
+    "options": [
+      "A) \"Tuzsiz ovqat\"",
+      "B) \"Afzal va abzal\" so‘zlarini almashtirib qo‘llash",
+      "C) \"Katta va kichik\" so‘zlarini ishlatish",
+      "D) \"Qalam va ruchka\""
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Sifat)",
+    "question": "Nutqning \"Aniqligi\" nima?",
+    "options": [
+      "A) So‘zning narsa-buyum yoki tushunchaga to‘la mos kelishi",
+      "B) So‘zlarning jarangdorligi",
+      "C) Gapning uzunligi",
+      "D) Ko‘p sifatlardan foydalanish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Sifat)",
+    "question": "Nutqning \"Tozaligi\"ga nimalar putur yetkazadi?",
+    "options": [
+      "A) Sinonimlar va antonimlar",
+      "B) Varvarizmlar (o‘rinsiz chet so‘zlar), vulqarizmlar (so‘kishlar) va parazit so‘zlar",
+      "C) Terminlar",
+      "D) Neologizmlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Sifat)",
+    "question": "Nutqning mantiqiyligi buzilgan gapni toping.",
+    "options": [
+      "A) \"Bahor keldi, gullar ochildi.\"",
+      "B) \"Men kecha bozorga bordim va ertaga imtihon topshiraman.\" (Zamon va voqealar bog‘liqligi yo‘q)",
+      "C) \"Kitob – bilim manbai.\"",
+      "D) \"Qishning sovug‘i ham o‘tib ketd\""
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Yordamchi manbalar)",
+    "question": "\"Imlo lug‘ati\" qaysi me’yorni aks ettiradi?",
+    "options": [
+      "A) Orfoepik",
+      "B) Orfografik (Yozuv)",
+      "C) Uslubiy",
+      "D) Etimologik"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Yordamchi manbalar)",
+    "question": "\"Izohli lug‘at\" nima uchun xizmat qiladi?",
+    "options": [
+      "A) So‘zlarning qanday yozilishini ko‘rsatish uchun",
+      "B) So‘zlarning leksik ma’nolarini tushuntirish va to‘g‘ri qo‘llashni o‘rgatish uchun",
+      "C) Faqat chet so‘zlar tarjimasini berish uchun",
+      "D) So‘zlarning kelib chiqish tarixini o‘rganish uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Leksik Xato)",
+    "question": "Varvarizm (Barbarizm) nima?",
+    "options": [
+      "A) Qadimiy so‘zlar",
+      "B) Ona tilida muqobili bo‘la turib, o‘rinsiz ishlatilgan chet tili so‘zlari (Masalan: \"Prostoy odam\" o‘rniga \"Oddiy odam\")",
+      "C) Sheva so‘zlari",
+      "D) Yangi paydo bo‘lgan so‘zlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Etiket)",
+    "question": "\"Nutq etiketi\" deganda nima tushuniladi?",
+    "options": [
+      "A) Faqat grammatik qoidalar",
+      "B) Muloqot jarayonida qo‘llaniladigan, jamiyat tomonidan qabul qilingan odob-axloq normalari va iboralar tizimi (salomlashish, murojaat, minnatdorchilik)",
+      "C) Chiroyli kiyinish",
+      "D) Baland ovozda gapirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Leksik)",
+    "question": "Qaysi so‘z juftligi paronim hisoblanadi?",
+    "options": [
+      "A) Katta - Kichik",
+      "B) Asr - Asir",
+      "C) Yuz - Bet",
+      "D) Temir - Oltin"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Uslubiy)",
+    "question": "Rasmiy-idoraviy uslubda qaysi turdagi leksik birliklar me’yor hisoblanadi?",
+    "options": [
+      "A) Erkalash so‘zlari",
+      "B) Kanselyarizmlar (qoliplashgan rasmiy iboralar)",
+      "C) Jargonlar",
+      "D) Dialektizmlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Uslubiy)",
+    "question": "Nutqiy g‘alizlik (Uslubiy xato) nima?",
+    "options": [
+      "A) Imlo xatosi",
+      "B) So‘zning o‘z uslubiga xos bo‘lmagan o‘rinda ishlatilishi (Masalan, ilmiy matnda \"vashshe zo‘r\" deyish)",
+      "C) Tinish belgisini qoldirib ketish",
+      "D) Harf tushib qolishi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Uslubiy)",
+    "question": "Dialektizm (Sheva so‘zi) adabiy tilda qachon ishlatilishi mumkin?",
+    "options": [
+      "A) Rasmiy hujjatlarda",
+      "B) Badiiy asarda qahramon nutqini xarakterlash va kolorit (muhit) yaratish uchun",
+      "C) Ilmiy ma’ruzalarda",
+      "D) Televideniye yangiliklarida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Leksik)",
+    "question": "\"Okkozionalizm\" nima?",
+    "options": [
+      "A) Eskirgan so‘z",
+      "B) Muallif tomonidan ma’lum bir kontekst uchun yaratilgan, umumiy tilda mavjud bo‘lmagan sun’iy so‘z",
+      "C) Hamma ishlatadigan so‘z",
+      "D) Doimiy ibora"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Sifat)",
+    "question": "Eufemizm nima va u qaysi nutq sifatiga xizmat qiladi?",
+    "options": [
+      "A) Qo‘pol so‘zni yumshoqroq so‘z bilan almashtirish (Masalan: \"o‘ldi\" o‘rniga \"vafot etdi\"). Nutqning odob-axloq va estetik me’yoriga xizmat qiladi.",
+      "B) So‘zni qisqartirish. Qisqalik.",
+      "C) So‘zni takrorlash. Aniqlik.",
+      "D) Ma’noni kuchaytirish. Boylik."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Morfologik)",
+    "question": "\"Morfologik kontaminatsiya\" nima?",
+    "options": [
+      "A) So‘zlarning to‘g‘ri yasalishi",
+      "B) Ikki xil grammatik shaklning o‘rinsiz qorishib ketishi",
+      "C) Gaplarning bog‘lanishi",
+      "D) So‘zning ma’nosini bilish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Kommunikativ)",
+    "question": "Nutq madaniyatining \"Kommunikativ maqsadga muvofiqligi\" tamoyili nimani anglatadi?",
+    "options": [
+      "A) Har doim bir xil gapirishni",
+      "B) Nutqni tinglovchi, joy, vaqt va sharoitga qarab to‘g‘ri tanlashni (Kimga, qayerda, nima maqsadda gapirilayotganini hisobga olish)",
+      "C) Faqat kitobiy tilda gapirishni",
+      "D) Faqat shevada gapirishni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Orfoepik)",
+    "question": "O‘zbek tilida urg‘u ko‘pincha qayerga tushadi?",
+    "options": [
+      "A) So‘z boshiga",
+      "B) So‘z o‘rtasiga",
+      "C) So‘zning oxirgi bo‘g‘iniga (ba’zi istisnolar bilan)",
+      "D) Hech qayerga tushmaydi"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Nutq va Adabiy Me’yor (Uslubiy)",
+    "question": "Quyidagilardan qaysi biri nutq buzilishi emas, balki \"nutqiy individual uslub\" hisoblanadi?",
+    "options": [
+      "A) Doimiy \"parazit\" so‘zlarni ishlatish (xo‘sh, endi, haligi)",
+      "B) Badiiy ijodkorning o‘ziga xos so‘z qo‘llash va tasvirlash usuli",
+      "C) So‘zlarni noto‘g‘ri talaffuz qilish",
+      "D) Grammatik"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Asosiy tushunchalar)",
+    "question": "Kommunikatsiya jarayonining asosiy elementi bo‘lgan \"Adressant\" kim?",
+    "options": [
+      "A) Axborotni qabul qiluvchi shaxs",
+      "B) Axborotni uzatuvchi (yuboruvchi) shaxs",
+      "C) Axborot uzatiladigan kanal",
+      "D) Aloqa vositasi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Asosiy tushunchalar)",
+    "question": "\"Verbal kommunikatsiya\" deganda qanday muloqot tushuniladi?",
+    "options": [
+      "A) Imo-ishoralar orqali muloqot",
+      "B) Til (so‘z) yordamida amalga oshiriladigan muloqot",
+      "C) Ranglar va ramzlar orqali muloqot",
+      "D) Masofadan turib kuzatish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Asosiy tushunchalar)",
+    "question": "\"Noverbal kommunikatsiya\"ga nimalar kiradi?",
+    "options": [
+      "A) Nutq va matn",
+      "B) Mimika, pantomimika, qarashlar va tashqi ko‘rinish",
+      "C) Faqat telefon so‘zlashuvlari",
+      "D) Ilmiy terminlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Asosiy tushunchalar)",
+    "question": "Muloqot jarayonidagi \"Fidbek\" (Qayta aloqa) nima?",
+    "options": [
+      "A) Adressantning xatosi",
+      "B) Axborotni qabul qiluvchining uzatilgan xabarga munosabati (javobi)",
+      "C) Shovqin va xalaqitlar",
+      "D) Faqat ijobiy maqtov"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Asosiy tushunchalar)",
+    "question": "Kommunikatsiya zanjirining to‘g‘ri ketma-ketligini toping.",
+    "options": [
+      "A) Xabar – Kanal – Qabul qiluvchi – Jo‘natuvchi",
+      "B) Jo‘natuvchi – Kodlash – Xabar – Kanal – Dekodlash – Qabul qiluvchi",
+      "C) Qabul qiluvchi – Xabar – Jo‘natuvchi",
+      "D) Kanal – Xabar – Kodlash"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Kasbiy Etiket)",
+    "question": "Kasbiy muloqotda \"Subordinatsiya\" nima?",
+    "options": [
+      "A) Xodimlar o‘rtasidagi do‘stona hazil",
+      "B) Mansab va ierarxiya bo‘yicha quyi pog‘onadagi xodimning yuqori pog‘onadagi rahbarga bo‘lgan bo‘ysunish tartibi",
+      "C) Ishdan bo‘shash tartibi",
+      "D) Faqat shaxsiy manfaatlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Kasbiy Etiket)",
+    "question": "\"Etika\" va \"Etiket\" tushunchalari o‘rtasidagi farq nimada?",
+    "options": [
+      "A) Farqi yo‘q",
+      "B) Etika – axloq haqidagi fan, etiket – jamiyatdagi tashqi muomala va odob qoidalari",
+      "C) Etiket faqat yozma nutqda bo‘ladi",
+      "D) Etika faqat rahbarlarga xos"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Kasbiy Etiket)",
+    "question": "Telefon orqali kasbiy muloqotni boshlashning eng maqbul usuli qaysi?",
+    "options": [
+      "A) \"Allo, eshitaman?\"",
+      "B) \"Kim bu?\"",
+      "C) Salomlashish, o‘zini (va tashkilotni) tanishtirish hamda maqsadi haqida ma’lumot berish",
+      "D) \"Nima deysiz?\""
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Kasbiy Etiket)",
+    "question": "Muloqotda \"Distansiya\" (masofa) qaysi turdagi kommunikatsiyaga kiradi?",
+    "options": [
+      "A) Verbal",
+      "B) Proksimika (noverbal aloqaning bir turi)",
+      "C) Akustik",
+      "D) Vizual"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Kasbiy Etiket)",
+    "question": "\"Muzokaralar\" (Negotiations) jarayonining asosiy maqsadi nima?",
+    "options": [
+      "A) Qarama-qarshi tomonni jazolash",
+      "B) O‘zaro kelishuvga erishish va muammoni hal qilish",
+      "C) Faqat o‘z fikrini majburan o‘tkazish",
+      "D) Vaqtni cho‘zish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Kasbiy Matn)",
+    "question": "Sohaviy muloqotda \"Terminologiya\"ning o‘rni qanday?",
+    "options": [
+      "A) Nutqni qiyinlashtiradi",
+      "B) Axborotning aniqligini ta’minlaydi va tushunmovchiliklarni kamaytiradi",
+      "C) Faqat darsliklarda kerak",
+      "D) Nutqning emotsionalligini oshiradi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Kasbiy Matn)",
+    "question": "Elektron xat (E-mail) yozishda \"Mavzu\" (Subject) qismi nima uchun kerak?",
+    "options": [
+      "A) Kerak emas",
+      "B) Qabul qiluvchi xatning mazmunini ochmasdanoq tushunishi va tartiblashi uchun",
+      "C) Faqat chiroyli ko‘rinish uchun",
+      "D) Parol vazifasini bajaradi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Kasbiy Matn)",
+    "question": "Kasbiy muloqotda \"Argumentatsiya\" nima?",
+    "options": [
+      "A) Shunchaki gapirish",
+      "B) O‘z fikrini isbotlar, dalillar va mantiqiy xulosalar bilan asoslash",
+      "C) Birov bilan urishish",
+      "D) Ma’lumotni yashirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Kasbiy Etiket)",
+    "question": "Rasmiy muloqotda qaysi turdagi murojaat shakli afzal?",
+    "options": [
+      "A) \"Siz\" va ism-sharifi bilan (yoki janoblari/xonim)",
+      "B) \"Sen\" va laqabi bilan",
+      "C) Faqat \"Hoy\" deb murojaat qilish",
+      "D) Ismining qisqartma shakli bilan"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Kasbiy Matn)",
+    "question": "Hisobot (Report) yozishda asosiy talab nima?",
+    "options": [
+      "A) Faqat maqtovlardan iborat bo‘lishi",
+      "B) Faktlarning haqqoniyligi, tizimlilik va xolislik",
+      "C) Juda uzun bo‘lishi",
+      "D) Faqat rasmlardan iborat bo‘lishi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (To‘siqlar)",
+    "question": "\"Semantik to‘siq\" nima?",
+    "options": [
+      "A) Telefon signalining yo‘qligi",
+      "B) Bir xil so‘z yoki belgilarni muloqot ishtirokchilari turlicha tushunishi natijasida kelib chiqadigan tushunmovchilik",
+      "C) Ko‘chadagi shovqin",
+      "D) Insonning kayfiyati yomonligi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (To‘siqlar)",
+    "question": "Nutqiy muloqotdagi \"shovqin\" (noise) deganda nima tushuniladi?",
+    "options": [
+      "A) Faqat baland ovoz",
+      "B) Axborotning to‘g‘ri uzatilishiga xalaqit beruvchi har qanday omil (fizik, psixologik, lingvistik)",
+      "C) Faqat musiqa ovozi",
+      "D) Kulgi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Konfliktlar)",
+    "question": "Kasbiy nizoni (konfliktni) hal qilishning \"Kompromiss\" usuli nima?",
+    "options": [
+      "A) Bir tomonning to‘liq mag‘lubiyati",
+      "B) Har ikki tomonning ma’lum yon bosishlar evaziga umumiy kelishuvga kelishi",
+      "C) Nizodan qochish va javob bermaslik",
+      "D) Kuch ishlatish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Ko'nikmalar)",
+    "question": "\"Faol tinglash\" (Active listening) texnikasi nimani anglatadi?",
+    "options": [
+      "A) Shunchaki jim turish",
+      "B) Suhbatdoshga e’tibor berish, tasdiqlovchi imo-ishoralar qilish va tushunishni namoyon etish",
+      "C) Suhbatdoshning gapini bo‘lish",
+      "D) Boshqa ish bilan shug‘ullanib eshitish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Ko'nikmalar)",
+    "question": "Stereotip nima?",
+    "options": [
+      "A) Yangi texnologiya",
+      "B) Muayyan guruh yoki shaxslar haqidagi barqaror, ko‘pincha noto‘g‘ri va soddalashtirilgan tasavvurlar",
+      "C) Muloqot kanali",
+      "D) Nutqiy xato"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Ommaviy nutq)",
+    "question": "Auditoriya oldida chiqish qilishda \"Intonatsiya\"ning vazifasi nima?",
+    "options": [
+      "A) Tomoqni dam oldirish",
+      "B) Nutqning muhim qismlarini ajratish va tinglovchi e’tiborini boshqarish",
+      "C) Faqat baland gapirish",
+      "D) Tez gapirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Ommaviy nutq)",
+    "question": "\"Prezentatsiya\" (Taqdimot) samarali bo‘lishi uchun slaydlar qanday bo‘lishi kerak?",
+    "options": [
+      "A) Juda ko‘p matnli",
+      "B) Qisqa tezislar, vizual vositalar va tushunarli dizaynga ega",
+      "C) Faqat oq-qora rangda",
+      "D) Hech qanday yozuvsiz"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Nutq madaniyati)",
+    "question": "Sohaga oid nutqda \"Varvarizm\"lardan foydalanish qanday natija beradi?",
+    "options": [
+      "A) Nutqni boyitadi",
+      "B) Nutqning tozaligini buzadi va sohani yaxshi bilmaslikni ko‘rsatadi",
+      "C) Faqat ijobiy ta’sir qiladi",
+      "D) Nutqni tezlashtiradi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Strategiya)",
+    "question": "Ommaviy nutqda \"Muloqot strategiyasi\" nima?",
+    "options": [
+      "A) Nutqni yozib olish",
+      "B) Ko‘zlangan maqsadga erishish uchun nutqiy harakatlarni oldindan rejalashtirish",
+      "C) Auditoriyadan qochish",
+      "D) Faqat kitobdan o‘qib berish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Tashkiliy)",
+    "question": "Jamoa ichidagi \"Gorizontal kommunikatsiya\" nima?",
+    "options": [
+      "A) Rahbar va xodim orasidagi aloqa",
+      "B) Bir xil darajadagi (lavozimdagi) xodimlar o‘rtasidagi axborot almashinuvi",
+      "C) Tashkilot va mijoz orasidagi aloqa",
+      "D) Faqat yuqoridan pastga buyruq berish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Ko'nikmalar)",
+    "question": "\"Empatiya\" muloqotda nima uchun kerak?",
+    "options": [
+      "A) Suhbatdoshni aldash uchun",
+      "B) Suhbatdoshning his-tuyg‘ularini tushunish va uning holatiga kira olish orqali aloqani mustahkamlash uchun",
+      "C) Faqat rasmiyatchilik uchun",
+      "D) Vaqtni tejash uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Strategiya)",
+    "question": "Kasbiy muloqotda \"Logika\" (Mantiq) qaysi sifatni ta’minlaydi?",
+    "options": [
+      "A) Nutqning jozibadorligini",
+      "B) Nutqning izchilligi va asoslanganligini",
+      "C) Nutqning balandligini",
+      "D) Nutqning qisqaligini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Madaniy)",
+    "question": "\"Kross-madaniy kommunikatsiya\" nima?",
+    "options": [
+      "A) Bir xil millat vakillari orasidagi aloqa",
+      "B) Turli madaniyat va millat vakillari o‘rtasidagi muloqot jarayoni",
+      "C) Faqat internet orqali muloqot",
+      "D) Sport haqidagi suhbat"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Xavf)",
+    "question": "Muloqotda \"Manipulyatsiya\" nima?",
+    "options": [
+      "A) Ochiq muloqot",
+      "B) Yashirin usullar bilan suhbatdoshni o‘z manfaatlariga bo‘ysundirish harakati",
+      "C) Yordam berish",
+      "D) Savol berish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Sohada O‘zbek Tilida Muloqot (Sifat)",
+    "question": "Nutqning \"Kommunikativ sifati\" deganda nima tushuniladi?",
+    "options": [
+      "A) Faqat ovoz balandligi",
+      "B) Nutqning to‘g‘riligi, aniqligi, mantiqiyligi, tozaligi va boyligi",
+      "C) Faqat gapning uzunligi",
+      "D) Faqat chiroyli yozuv"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Kasbiy muloqotning asosiy maqsadi nima?",
+    "options": [
+      "A) Shaxsiy muammolarni hal qilish",
+      "B) Hamkorlikda muayyan amaliy natijaga erishish va ishlab chiqarish vazifalarini bajarish",
+      "C) Faqat vaqt o‘tkazish",
+      "D) Insonlar bilan do‘stlashish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Kasbiy muloqotning qaysi shakli qat’iy tartibga solingan va qonuniy kuchga ega?",
+    "options": [
+      "A) Norasmiy muloqot",
+      "B) Rasmiy-idoraviy muloqot",
+      "C) Do‘stona suhbat",
+      "D) Oilaviy muloqot"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "\"Muloqot fassilitatsiyasi\" nima?",
+    "options": [
+      "A) Muloqotni qiyinlashtirish",
+      "B) Muloqot jarayonini samarali tashkil etish va uni yengillashtirish",
+      "C) Suhbatdoshni kamsitish",
+      "D) Axborotni yashirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Kasbiy muloqotda \"Kompetensiya\" deganda nima tushuniladi?",
+    "options": [
+      "A) Faqat nazariy bilim",
+      "B) Shaxsning kasbiy vazifalarni bajarish uchun zarur bo‘lgan bilim, ko‘nikma va malakalari majmuasi",
+      "C) Faqat chiroyli gapirish",
+      "D) Ish stajining ko‘pligi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Kasbiy muloqotning necha xil asosiy turi mavjud?",
+    "options": [
+      "A) Verbal va noverbal",
+      "B) Faqat og‘zaki",
+      "C) Faqat yozma",
+      "D) Faqat vizual"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Tashkilot ichidagi yuqori bo‘g‘in rahbaridan quyi bo‘g‘in xodimiga yo‘naltirilgan muloqot qanday nomlanadi?",
+    "options": [
+      "A) Gorizontal muloqot",
+      "B) Vertikal (pastga yo‘nalgan) muloqot",
+      "C) Diagonal muloqot",
+      "D) Norasmiy muloqot"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "\"Intervyu\" kasbiy muloqotning qaysi bosqichida eng ko‘p qo‘llaniladi?",
+    "options": [
+      "A) Ishdan bo‘shashda",
+      "B) Ishga qabul qilish va kadrlar tanlashda",
+      "C) Dam olish vaqtida",
+      "D) Faqat reklamada"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Bir xil darajadagi lavozimda ishlovchi xodimlar o‘rtasidagi muloqot nima deyiladi?",
+    "options": [
+      "A) Vertikal muloqot",
+      "B) Gorizontal muloqot",
+      "C) Tashqi muloqot",
+      "D) Buyruqbozlik"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "\"Kollektiv muloqot\"ning asosiy shakli qaysi?",
+    "options": [
+      "A) Yuzma-yuz suhbat",
+      "B) Majlis, kengash va konferensiyalar",
+      "C) Telefon so‘zlashuvi",
+      "D) SMS yozishmalar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "\"Muzokaralar\" (Negotiations) jarayonining natijasi odatda nima bilan yakunlanadi?",
+    "options": [
+      "A) Jahl bilan",
+      "B) O‘zaro kelishuv, bitim yoki shartnoma bilan",
+      "C) Faqat pul to‘lash bilan",
+      "D) Hech qanday natijasiz"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Kasbiy etikada \"Konfidentsiallik\" nima?",
+    "options": [
+      "A) Ochiq muloqot qilish",
+      "B) Xizmat vazifasini bajarishda ma’lum bo‘lgan sir va muhim axborotlarni oshkor qilmaslik",
+      "C) Hamma bilan ma’lumot almashish",
+      "D) Ma’lumotni buzib ko‘rsatish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Rahbar va xodim o‘rtasidagi masofani saqlash qaysi qoidaga kiradi?",
+    "options": [
+      "A) Diyetika",
+      "B) Subordinatsiya",
+      "C) Tolerantlik",
+      "D) Kreativlik"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Kasbiy muloqotda \"Dress-kod\" nima uchun kerak?",
+    "options": [
+      "A) Faqat chiroyli ko‘rinish uchun",
+      "B) Korporativ madaniyatni saqlash va jiddiylik muhitini yaratish uchun",
+      "C) Maoshni oshirish uchun",
+      "D) Kiyim sotib olish uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Nutqiy etiketning qaysi qismi kasbiy muloqotni boshlashda muhim?",
+    "options": [
+      "A) Murojaat va salomlashish",
+      "B) Faqat xayrlashish",
+      "C) Shaxsiy savollar berish",
+      "D) Jim turish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "\"Tolerantlik\" kasbiy muloqotda qanday namoyon bo‘ladi?",
+    "options": [
+      "A) Faqat o‘z fikrini ma’qullash",
+      "B) O‘zga fikr, madaniyat va dunyoqarashga nisbatan chidamli va hurmat bilan yondashish",
+      "C) Ishdan qochish",
+      "D) Hamma narsaga rozilik bildirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Kasbiy muloqotda \"Vizual kontakt\"ning (ko‘z bilan aloqa) ahamiyati nima?",
+    "options": [
+      "A) Suhbatdoshni qo‘rqitish",
+      "B) Samimiylik, ishonch va e’tiborni bildirish",
+      "C) Ko‘z rangini aniqlash",
+      "D) Hech qanday ahamiyati yo‘q"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "\"Pantomimika\" muloqotda nimani anglatadi?",
+    "options": [
+      "A) Faqat yuz harakatini",
+      "B) Butun tana harakati, qomat va yurish-turishni",
+      "C) Faqat ovoz ohangini",
+      "D) Faqat qo‘l harakatini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Suhbatdoshga juda yaqin turib (50 sm dan kam) gapirish qaysi zonaga kiradi?",
+    "options": [
+      "A) Ijtimoiy zona",
+      "B) Intim zona (kasbiy muloqotda tavsiya etilmaydi)",
+      "C) Rasmiy zona",
+      "D) Ommaviy zona"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Muloqotda \"Yopiq pozitsiya\" qanday holatda bo‘ladi?",
+    "options": [
+      "A) Qo‘llar va oyoqlar chatishtirilgan holatda",
+      "B) Qo‘llar yon tomonda, ochiq holatda",
+      "C) Tabassum qilganda",
+      "D) Tik turganda"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Ovoz ohangi (tembr), tezligi va pauzalari muloqotning qaysi turiga kiradi?",
+    "options": [
+      "A) Kinesika",
+      "B) Paralingvistika",
+      "C) Proksimika",
+      "D) Takisika"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "\"Psixologik to‘siq\" nima?",
+    "options": [
+      "A) Xonaning sovuqligi",
+      "B) Qo‘rquv, adovat, xavotir yoki suhbatdoshga nisbatan bo‘lgan salbiy munosabat",
+      "C) Tilni bilmaslik",
+      "D) Telefon signalining yo‘qligi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Kasbiy nizolarni hal qilishda \"Arbitraj\" nima?",
+    "options": [
+      "A) Ikki kishining janjali",
+      "B) Nizoni uchinchi, xolis tomon (sudya yoki rahbar) yordamida hal qilish",
+      "C) Nizodan qochish",
+      "D) Faqat pul jarimasi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "\"Destruktiv nizo\" nima?",
+    "options": [
+      "A) Rivojlanishga olib keladigan nizo",
+      "B) Ish jarayoniga xalaqit beradigan va munosabatlarni buzadigan buzg‘unchi nizo",
+      "C) Do‘stona bahs",
+      "D) Ilmiy munozara"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Muloqotdagi \"Interpretatsiya\" nima?",
+    "options": [
+      "A) Ma’lumotni o‘chirish",
+      "B) Qabul qilingan xabarni tushunish va o‘zicha talqin qilish",
+      "C) Faqat tarjima qilish",
+      "D) Matnni ko‘paytirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Kasbiy muloqotda \"Manipulyatsiya\"ning belgisi qaysi?",
+    "options": [
+      "A) Ochiq taklif berish",
+      "B) Suhbatdoshni o‘z manfaati yo‘lida bilvosita (yashirin) boshqarishga urinish",
+      "C) Yordam so‘rash",
+      "D) Hisobot topshirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "\"Faol tinglash\" usullariga nima kirmaydi?",
+    "options": [
+      "A) Suhbatdoshning gapini tasdiqlab turish (\"ha\", \"tushunarli\")",
+      "B) Savol berish orqali aniqlashtirish",
+      "C) Suhbatdosh gapirayotganda telefonga qarash",
+      "D) Ko‘z bilan aloqa o‘rnatish"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Auditoriya oldida chiqish qilishning muvaffaqiyati nimaga bog‘liq?",
+    "options": [
+      "A) Faqat kiyimga",
+      "B) Tayyorgarlik, ishonchli ovoz va auditoriya bilan aloqa o‘rnatishga",
+      "C) Faqat qog‘ozdan o‘qib berishga",
+      "D) Tez gapirishga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Ishchanlik yozishmalarida (Email) eng muhim sifat nima?",
+    "options": [
+      "A) Juda ko‘p rangli shriftlar",
+      "B) Qisqalik, aniqlik va savodxonlik",
+      "C) Faqat rasmlar yuborish",
+      "D) Shaxsiy hayot haqida yozish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "\"Braynstorming\" (Aqliy hujum) muloqot usulining maqsadi nima?",
+    "options": [
+      "A) Bir kishini ayblash",
+      "B) Jamoa bo‘lib yangi va noodatiy g‘oyalarni ishlab chiqish",
+      "C) Vaqtni bekor o‘tkazish",
+      "D) Faqat hisobot yozish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Kasbiy Muloqot Jarayoni",
+    "question": "Kasbiy muloqot madaniyati yuqori bo‘lgan xodim...",
+    "options": [
+      "A) Faqat buyruq beradi",
+      "B) Vaziyatga qarab muloqot uslubini tanlay oladi va etiketga amal qiladi",
+      "C) Doim jim turadi",
+      "D) Faqat o‘zini maqtaydi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Og‘zaki nutqning yozma nutqdan asosiy farqi nimada?",
+    "options": [
+      "A) Faqat lug‘at boyligida",
+      "B) Tayyorlanmaganlik (spontanlik) va vaziyatga bog‘liqlikda",
+      "C) Harflarning yo‘qligida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Og‘zaki muloqotning qaysi shakli birlamchi hisoblanadi?",
+    "options": ["A) Dialog (Suhbat)", "B) Monolog", "C) Ma’ruza"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "\"Paralingvistika\" og‘zaki nutqning qaysi jihatlarini o‘rganadi?",
+    "options": [
+      "A) So‘zlarning yozilishini",
+      "B) Ovoz ohangi, tembr, balandlik va pauzalarni",
+      "C) Faqat qo‘l harakatlarini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Og‘zaki nutqda \"Ellipsis\" (so‘z tushib qolishi) nima uchun ko‘p uchraydi?",
+    "options": [
+      "A) Nutqiy tejamkorlik va vaziyat tushunarli bo‘lgani uchun",
+      "B) Savodsizlik tufayli",
+      "C) Vaqt yetishmagani uchun"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Og‘zaki muloqotda \"Reaksiya\" qanday namoyon bo‘ladi?",
+    "options": [
+      "A) Faqat javob qaytarish orqali",
+      "B) Ham so‘z, ham noverbal (imo-ishora) vositalar orqali",
+      "C) Faqat indamay eshitish orqali"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Ommaviy nutqda \"Diksiya\" nima?",
+    "options": [
+      "A) Tovush va so‘zlarning aniq, ravshan talaffuz qilinishi",
+      "B) Ovozning juda balandligi",
+      "C) Sheva so‘zlarini ishlatish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Nutqiy muloqotda \"Inflexion\" (intonatsiya o‘zgarishi) vazifasi nima?",
+    "options": [
+      "A) Faqat gapni chiroyli qilish",
+      "B) Ma’no urg‘usini ko‘chirish va his-tuyg‘uni ifodalash",
+      "C) Matnni eslab qolish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Qaysi vosita og‘zaki nutqqa hissiy bo‘yoq (ekspressivlik) beradi?",
+    "options": [
+      "A) Faqat terminlar",
+      "B) Undovlar, ritorik so‘roqlar va modal so‘zlar",
+      "C) Murakkab qo‘shma gaplar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "\"Logofobiya\" og‘zaki muloqotda nimani anglatadi?",
+    "options": [
+      "A) Ko‘p gapirishga moyillik",
+      "B) Auditoriya oldida gapirishdan qo‘rqish (nutqiy hayajon)",
+      "C) So‘zlarni noto‘g‘ri talaffuz qilish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Og‘zaki nutqda pauzaning (to‘xtamning) vazifasi nima?",
+    "options": [
+      "A) Faqat nafas rostlash",
+      "B) Fikrni bo‘laklarga ajratish va muhim joyga e’tibor qaratish",
+      "C) Gapni tugatish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "\"Kinesika\" fani nimani o‘rganadi?",
+    "options": [
+      "A) Ovoz tempini",
+      "B) Tana harakati, imo-ishora va mimikalarni",
+      "C) Suhbatdoshlar orasidagi masofani"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Muloqotda \"Ochiq kaftlar\" nimani anglatadi?",
+    "options": [
+      "A) Aldashni va yashirinishni",
+      "B) Samimiylik, ishonch va ochiqlikni",
+      "C) Suhbatni tugatish istagini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "\"Proksimika\" muloqotda nimani tartibga soladi?",
+    "options": [
+      "A) So‘zlar tartibini",
+      "B) Suhbatdoshlar o‘rtasidagi jismoniy masofani",
+      "C) Kiyinish madaniyatini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Ko‘z bilan aloqa (Eye contact) muloqotda qachon samarali hisoblanadi?",
+    "options": [
+      "A) Suhbatdoshga doimiy tikilib turganda",
+      "B) Vaqti-vaqti bilan va samimiy qaraganda (ishonch belgisi)",
+      "C) Umuman qaramaganda"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "\"Haptika\" muloqotning qaysi turiga kiradi?",
+    "options": [
+      "A) Ovoz orqali",
+      "B) Taktil (qo‘l berib ko‘rishish, teginish) orqali",
+      "C) Faqat ko‘z qarashi orqali"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "\"Refleksiv tinglash\" nima?",
+    "options": [
+      "A) Faqat jim o‘tirish",
+      "B) Suhbatdosh fikrini aniqlashtiruvchi savollar berish va uni tushunishga intilish",
+      "C) Suhbatdoshning gapini bo‘lish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Tinglashning eng past darajasi qaysi?",
+    "options": [
+      "A) Empatik tinglash",
+      "B) Tanlab tinglash (ignoring)",
+      "C) Tanqidiy tinglash"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Og‘zaki nutqda \"Parazit so‘zlar\" (haligi, anavi, xo‘sh) qanday ta’sir ko‘rsatadi?",
+    "options": [
+      "A) Nutqni boyitadi",
+      "B) Nutqni g‘alizlashtiradi va tinglovchini chalg‘itadi",
+      "C) Ma’noni kuchaytiradi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "\"Kommunikativ to‘siq\" (barayer) nima?",
+    "options": [
+      "A) Ovozning balandligi",
+      "B) Axborotni qabul qilishga xalaqit beruvchi omillar (shovqin, tushunmovchilik)",
+      "C) Telefon apparati"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Dialektizmlarning (sheva so‘zlari) og‘zaki nutqdagi o‘rni qanday?",
+    "options": [
+      "A) Adabiy tilda har doim qo‘llanishi kerak",
+      "B) Adabiy nutq madaniyatini pasaytiradi (norasmiy vaziyatlar mustasno)",
+      "C) Nutqning aniqligini oshiradi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "\"Notiqlik san’ati\" (Ritorika) qayerda vujudga kelgan?",
+    "options": [
+      "A) Qadimgi Rim va Yunonistonda",
+      "B) O‘rta Osiyoda",
+      "C) Hindistonda"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Ma’ruzaning \"Kulminatsiyasi\" nima?",
+    "options": [
+      "A) Kirish qismi",
+      "B) Nutqning eng hayajonli va yuqori nuqtasi",
+      "C) Xulosa qismi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Auditoriyani boshqarishning eng samarali usuli qaysi?",
+    "options": [
+      "A) Faqat kitobga qarab o‘qish",
+      "B) Savol-javob va interaktiv muloqot o‘rnatish",
+      "C) Juda baland ovozda baqirish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "\"Nutq etiketi\"ga nimalar kiradi?",
+    "options": [
+      "A) Faqat salomlashish",
+      "B) Murojaat, minnatdorchilik, uzr so‘rash va xayrlashish qoidalari",
+      "C) Faqat terminlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Ommaviy nutqdan oldin qilinadigan \"artikulyatsion mashqlar\" nima uchun kerak?",
+    "options": [
+      "A) Ovozni chiroyli qilish uchun",
+      "B) Nutq a’zolarini (til, lab) ravon gapirishga tayyorlash uchun",
+      "C) Matnni yodlash uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Og‘zaki nutqning \"redundantligi\" (ortiqchaligi) nima bilan izohlanadi?",
+    "options": [
+      "A) So‘zlarning ko‘pligi bilan",
+      "B) Axborotni tushunishni osonlashtirish uchun takrorlar va izohlarning mavjudligi bilan",
+      "C) Matnning uzunligi bilan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "\"Feedback\" (Qayta aloqa) og‘zaki muloqotda qanday vazifani bajaradi?",
+    "options": [
+      "A) Xabarni o‘chirish",
+      "B) Axborot qabul qilinganligini va munosabatni bildirish",
+      "C) Faqat savol berish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Og‘zaki nutqda \"Evfemizmlar\" nima uchun qo‘llaniladi?",
+    "options": [
+      "A) Ma’noni yashirish uchun",
+      "B) Qo‘pol so‘zlarni yumshoqroq ifodalash va madaniyatli ko‘rinish uchun",
+      "C) Nutqni tezlashtirish uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Qaysi uslub og‘zaki nutqning eng erkin shakli hisoblanadi?",
+    "options": ["A) Ilmiy uslub", "B) So‘zlashuv uslubi", "C) Rasmiy uslub"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Og‘zaki Muloqot",
+    "question": "Og‘zaki muloqot samaradorligini belgilovchi asosiy omil nima?",
+    "options": [
+      "A) Faqat gapiruvchining mahorati",
+      "B) Ham gapiruvchi, ham tinglovchining muloqotga tayyorligi va o‘zaro tushunishi",
+      "C) Faqat xonaning sharoiti"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariy nima?",
+    "options": [
+      "A) Badiiy asardagi qahramonlar ro‘yxati",
+      "B) Muayyan fan yoki sohadagi maxsus termin va tushunchalarning izohli lug‘ati",
+      "C) Faqat chet tilidagi so‘zlar to‘plami",
+      "D) Kitobning mundarija qismi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariyda terminlar qaysi tartibda joylashtiriladi?",
+    "options": [
+      "A) Ahamiyat darajasi bo‘yicha",
+      "B) Alifbo tartibida",
+      "C) Muallifning ixtiyori bo‘yicha",
+      "D) Matnda uchrash tartibi bo‘yicha"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Termin\" (Atama) ning umumiste’moldagi so‘zdan asosiy farqi nimada?",
+    "options": [
+      "A) Termin faqat bir ma’nolilikka (monosemiya) intiladi va aniq tushunchani ifodalaydi",
+      "B) Termin har doim ko‘p ma’noli bo‘ladi",
+      "C) Termin faqat chet tilidan kirib keladi",
+      "D) Termin faqat yozma nutqda ishlatiladi"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariy tuzishda foydalaniladigan \"Definitsiya\" nima?",
+    "options": [
+      "A) So‘zning kelib chiqish tarixi",
+      "B) Tushunchaning mazmunini ochib beruvchi qisqa va aniq ta’rif",
+      "C) So‘zning sinonimlari ro‘yxati",
+      "D) Terminning boshqa tildagi tarjimasi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariyning asosiy vazifasi nima?",
+    "options": [
+      "A) Matn hajmini ko‘paytirish",
+      "B) Mutaxassislar o‘rtasida yagona ilmiy til va tushunchalar birligini ta’minlash",
+      "C) Faqat talabalarni imtihon qilish",
+      "D) Kitobni bezash"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Terminologiya\" termini qanday ma’nolarni anglatadi?",
+    "options": [
+      "A) Faqat lug‘at tuzish haqidagi fan",
+      "B) Muayyan sohadagi terminlar yig‘indisi va terminlarni o‘rganuvchi fan",
+      "C) Grammatik qoidalar to‘plami",
+      "D) Sheva so‘zlari tizimi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Terminlarning \"determinatsiya\" jarayoni nima?",
+    "options": [
+      "A) Yangi termin yaratish",
+      "B) Oddiy so‘zning ma’lum bir fan doirasiga kirib, maxsus ma’no kasb etishi",
+      "C) Terminning iste’moldan chiqishi",
+      "D) Terminni tarjima qilish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariyda \"Leksikografiya\" qanday rol o‘ynaydi?",
+    "options": [
+      "A) U matndagi xatolarni tuzatadi",
+      "B) U lug‘at tuzish nazariyasi va amaliyoti sifatida glossariy shakllanishiga asos bo‘ladi",
+      "C) Faqat so‘z yasashni o‘rgatadi",
+      "D) Faqat fonetikani o‘rganadi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Professionalizm\" va \"Termin\" o‘rtasidagi farq nimada?",
+    "options": [
+      "A) Farqi yo‘q",
+      "B) Termin rasmiy-ilmiy nom, professionalizm esa muayyan kasb egalari nutqidagi yarim rasmiy so‘z",
+      "C) Professionalizm har doim kitobiy bo‘ladi",
+      "D) Termin faqat og‘zaki nutqda ishlatiladi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Arxaizm\" bo‘lgan terminlar glossariyga kiritiladimi?",
+    "options": [
+      "A) Yo‘q, hech qachon",
+      "B) Faqat tarixiy yoki fanning rivojlanish bosqichini ko‘rsatuvchi glossariylarda kiritiladi",
+      "C) Ha, hamma glossariyga kiritilishi shart",
+      "D) Faqat fizika fanida kiritiladi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariy tuzishning birinchi bosqichi qaysi?",
+    "options": [
+      "A) Ta’rif yozish",
+      "B) Manbalardan tayanch so‘zlarni (terminlarni) tanlab olish va inventarizatsiya qilish",
+      "C) Kitobni chop etish",
+      "D) Rasmlar tanlash"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Etimologik glossariy\" nimani tushuntiradi?",
+    "options": [
+      "A) Terminning qayerda ishlatilishini",
+      "B) Terminning kelib chiqish manbasi va tarixini",
+      "C) Terminning antonimlarini",
+      "D) Terminning hozirgi holatini"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariyda so‘zlar qaysi turkumda berilishi afzal ko‘riladi?",
+    "options": [
+      "A) Sifat va ravish",
+      "B) Ot (birlik sonda, bosh kelishikda)",
+      "C) Fe’l (buyruq maylida)",
+      "D) Undovlar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Tezaurus\" lug‘atining glossariydan farqi nimada?",
+    "options": [
+      "A) Tezaurusda so‘zlar o‘rtasidagi mantiqiy-iyerarxik bog‘lanishlar (sinonim, antonim, giponim) ko‘rsatiladi",
+      "B) Tezaurus kichikroq bo‘ladi",
+      "C) Tezaurusda faqat raqamlar bo‘ladi",
+      "D) Tezaurus faqat bolalar uchun"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Kontekstual ma’no\" glossariyda qanday aks etadi?",
+    "options": [
+      "A) Aks etmaydi, chunki termin bitta ma’noda bo‘lishi kerak",
+      "B) Terminning o‘sha sohadagi o‘ziga xos qo‘llanish namunalari orqali",
+      "C) Faqat rasm orqali",
+      "D) Faqat sinonimlar orqali"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Ijtimoiy-siyosiy glossariylarda qanday so‘zlar ustuvor?",
+    "options": [
+      "A) \"Demokratiya\", \"Suverenitet\", \"Konstitutsiya\" kabi atamalar",
+      "B) \"Atom\", \"Molekula\", \"Kvant\"",
+      "C) \"Morfologiya\", \"Sintaksis\"",
+      "D) \"Skalpel\", \"Anesteziya\""
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Glossariy",
+    "question": "Axborot texnologiyalari glossariyasidagi \"Interfeys\" tushunchasi nimani anglatadi?",
+    "options": [
+      "A) Kompyuter korpusi",
+      "B) Foydalanuvchi va dastur o‘rtasidagi o‘zaro aloqa vositasi/usuli",
+      "C) Internet tezligi",
+      "D) Ma’lumotlar bazasi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Neologizm\" bo‘lgan terminlar glossariyga qachon kiritiladi?",
+    "options": [
+      "A) Ular iste’molda mustahkam o‘rnashib, ilmiy hamjamiyat tomonidan qabul qilinganda",
+      "B) Paydo bo‘lgan kiyoqdayoq",
+      "C) Faqat 100 yildan keyin",
+      "D) Hech qachon kiritilmaydi"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariyda \"Annotatsiya\" va \"Abstrakt\" terminlari qaysi sohaga tegishli?",
+    "options": [
+      "A) Tibbiyot",
+      "B) Ilmiy faoliyat va matnshunoslik",
+      "C) Qurilish",
+      "D) Geografiya"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Giponim\" va \"Giperonim\" munosabati glossariyda nimani bildiradi?",
+    "options": [
+      "A) So‘zlarning yozilishini",
+      "B) Tur va jins (umumiy va xususiy) munosabatini (masalan: \"Atirgul\" — giponim, \"Gul\" — giperonim)",
+      "C) Ovoz balandligini",
+      "D) Ma’nodoshlikni"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariyning \"Apparati\"ga nimalar kiradi?",
+    "options": [
+      "A) Faqat so‘zlar",
+      "B) So‘zboshi, qisqartmalar ro‘yxati, asosiy qism va foydalanilgan adabiyotlar",
+      "C) Faqat muallif ismi",
+      "D) Kitobning narxi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Inklyuziv glossariy\" nima?",
+    "options": [
+      "A) Faqat ingliz tilidagi lug‘at",
+      "B) Imkoniyati cheklangan shaxslar yoki maxsus guruhlar uchun tushunishni osonlashtiradigan terminlar to‘plami",
+      "C) Faqat qadimiy so‘zlar to‘plami",
+      "D) Hech kim tushunmaydigan lug‘at"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariyda \"Xalqaro terminlar\" (Internatsionalizmlar) qanday tanlanadi?",
+    "options": [
+      "A) Ularni o‘zbekchaga o‘girish shart",
+      "B) Dunyo ilm-fanida bir xil qabul qilingan shaklda (masalan: \"energiya\", \"kompyuter\")",
+      "C) Faqat rus tilida beriladi",
+      "D) Ixtiyoriy ravishda o‘zgartiriladi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Terminning \"Emotsional-ekspressiv bo‘yoq\"qa ega bo‘lmasligi nima uchun muhim?",
+    "options": [
+      "A) O‘quvchini zeriktirish uchun",
+      "B) Obyektivlik va aniqlikni saqlash, ortiqcha subyektivlikka yo‘l qo‘ymaslik uchun",
+      "C) Shunday qoida borligi uchun",
+      "D) Termin juda uzun bo‘lib ketmasligi uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariyda \"Cross-reference\" (Havola) nima uchun ishlatiladi?",
+    "options": [
+      "A) Sahifani to‘ldirish uchun",
+      "B) Bir tushunchani boshqa bir-biriga bog‘liq tushuncha bilan bog‘lab o‘rganish uchun",
+      "C) Faqat xorijiy tillarni ko‘rsatish uchun",
+      "D) Kitobni reklama qilish uchun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "\"Universal glossariy\" bilan \"Maxsus glossariy\"ning farqi nimada?",
+    "options": [
+      "A) Universal hamma uchun, maxsus faqat bitta soha mutaxassislari uchun",
+      "B) Farqi yo‘q",
+      "C) Universal faqat internetda bo‘ladi",
+      "D) Maxsus glossariy har doim qalin bo‘ladi"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariy yozishda \"Soddalik\" va \"Ilmiylik\" muvozanati qanday saqlanadi?",
+    "options": [
+      "A) Faqat sodda so‘zlar ishlatiladi",
+      "B) Ta’riflar ilmiy jihatdan to‘g‘ri, lekin maqsadli auditoriya tushunadigan tilda bayon etiladi",
+      "C) Faqat tushunarsiz terminlar ishlatiladi",
+      "D) Rasmlar bilan tushuntiriladi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Glossariyda \"Sinonimik qator\" kiritilishi mumkinmi?",
+    "options": [
+      "A) Ha, lekin asosiy (tavsiya etilgan) termin birinchi bo‘lib ajratib ko‘rsatiladi",
+      "B) Yo‘q, termin bitta bo‘lishi shart",
+      "C) Faqat she’riyatda mumkin",
+      "D) Faqat ingliz tilida mumkin"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "Glossariy",
+    "question": "Zamonaviy \"Elektron glossariy\"larning afzalligi nimada?",
+    "options": [
+      "A) Ularni qo‘lda ushlab bo‘lmaydi",
+      "B) Qidiruv tizimining tezligi va ma’lumotlarning doimiy yangilanib borishi",
+      "C) Ular bepul",
+      "D) Ular rangli bo‘ladi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "Glossariy",
+    "question": "Talabaning glossariy ustida ishlashi uning qaysi ko‘nikmasini rivojlantiradi?",
+    "options": [
+      "A) Faqat xotirasini",
+      "B) Tizimli fikrlash, tahlil qilish va fanning fundamental tushunchalarini chuqur o‘zlashtirish ko‘nikmasini",
+      "C) Chiroyli yozishni",
+      "D) Tez o‘qishni"
+    ],
+    "correctAnswerIndex": 1
   }
 ]
