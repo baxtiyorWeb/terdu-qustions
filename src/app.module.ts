@@ -23,8 +23,8 @@ import { SeedsModule } from './seeds/seeds.module';
     TypeOrmModule.forRoot({
       type: 'postgres',
       url: 'postgresql://neondb_owner:npg_sOTStUz8nqi4@ep-still-forest-ablr8jhv-pooler.eu-west-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require',
-      autoLoadEntities: true, // barcha entity larni avtomatik yuklash
-      synchronize: true, // dev uchun, production da false qil
+      autoLoadEntities: true,
+      synchronize: true,
     }),
 
     // ===============================

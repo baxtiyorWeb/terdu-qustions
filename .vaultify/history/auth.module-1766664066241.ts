@@ -19,7 +19,7 @@ import { JwtStrategy } from './strategies/jwt.strategy';
       inject: [ConfigService],
       useFactory: (configService: ConfigService) => ({
         secret: configService.get<string>('JWT_SECRET') || 'tdutest123', // Keyinchalik env dan o'qiladi
-        signOptions: { expiresIn: '60m' }, // Token yashash muddati
+        signOptions: { expiresIn: '30d' }, // Token muddati
       }),
     }),
   ],

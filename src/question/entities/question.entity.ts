@@ -13,10 +13,10 @@ export class Question {
   options: string[] | null;
 
   @Column('int', { nullable: true })
-  correctAnswerIndex: number | null; // To'g'ri javob indeksi (0-based), agar null bo'lsa – matnli savol
+  correctAnswerIndex: number | null;
 
   @Column({ type: 'text', nullable: true })
-  correctTextAnswer: string | null; // To'g'ri matnli javob (agar savol matnli bo'lsa)
+  correctTextAnswer: string | null;
 
   @ManyToOne(() => Category, (category) => category.questions, {
     onDelete: 'CASCADE',
